@@ -1,0 +1,1031 @@
+id_pedido,data_pedido,uf_destino,categoria_produto,valor_produto,valor_frete,cupom_desconto,status_pedido,prazo_entrega_dias
+PED-0001,19/05/2026,PR, Acessórios ,71.82,0.0,FRETEGRATIS,Devolvido,3
+PED-0002,19/05/2026,RS,Moda,124.37,33.63,Sem Cupom,Entregue,12
+PED-0003,2026-05-19,SC,Perfumaria,274.76,31.52,Sem Cupom,Entregue,10
+PED-0004,2026-05-19,MG,Casa e Decoração,406.65,29.17,Sem Cupom,Entregue,7
+PED-0005,2026-05-20,MG,Moda,119.21,,Sem Cupom,Entregue,7
+PED-0006,2026-05-20,BA,Casa e Decoração,162.59,59.9,Sem Cupom,Entregue,10
+PED-0007,2026-05-20,RJ,Acessórios,124.52,20.43,BEMVINDO10,Devolvido,4
+PED-0008,20/05/2026,RS,casa e decoração,118.27,0.0,FRETEGRATIS,Cancelado,11
+PED-0009,2026-05-20,MG,Eletrônicos,648.05,31.43,Sem Cupom,Devolvido,7
+PED-0010,20/05/2026,SP,Acessórios,94.97,19.77,BEMVINDO10,Entregue,3
+PED-0011,21/05/2026,SP,Eletrônicos,1996.49,15.91,Sem Cupom,Entregue,5
+PED-0012,21/05/2026,RS,eletrônicos,554.86,39.36,Sem Cupom,Entregue,7
+PED-0013,21/05/2026,SP,Acessórios,29.8,0.0,FRETEGRATIS,Entregue,3
+PED-0014,2026-05-21,SP,Acessórios,28.5,10.53,Sem Cupom,Entregue,5
+PED-0015,2026-05-21,RJ,moda,80.04,,FRETEGRATIS,Entregue,4
+PED-0016,2026-05-22,SP,Perfumaria,87.42,16.57,Sem Cupom,Devolvido,4
+PED-0017,22/05/2026,RJ,ELETRÔNICOS,795.29,25.61,Sem Cupom,Entregue,4
+PED-0018,22/05/2026,PR,Moda,83.2,23.02,Sem Cupom,Entregue,5
+PED-0019,2026-05-22,SP,Eletrônicos,512.96,28.45,Sem Cupom,Entregue,2
+PED-0020,2026-05-22,RS, Eletrônicos ,484.5,37.13,VIP20,Entregue,9
+PED-0021,23/05/2026,RS,Perfumaria,141.27,,Sem Cupom,Entregue,8
+PED-0022,2026-05-23,RJ,Casa e Decoração,593.18,0.0,FRETEGRATIS,Entregue,4
+PED-0023,23/05/2026,SP,Moda,230.27,,FRETEGRATIS,Entregue,4
+PED-0024,2026-05-23,GO,Acessórios,90.88,29.96,BEMVINDO10,Entregue,4
+PED-0025,2026-05-23,SP,ACESSÓRIOS,68.25,10.22,Sem Cupom,Cancelado,1
+PED-0026,2026-05-23,RJ,Eletrônicos,636.39,30.03,Sem Cupom,Entregue,7
+PED-0027,2026-05-24,PE,PERFUMARIA,215.56,39.61,Sem Cupom,Entregue,15
+PED-0028,2026-05-24,PE,Casa e Decoração,340.96,0.0,FRETEGRATIS,Entregue,14
+PED-0029,24/05/2026,BA,Eletrônicos,435.42,60.61,Sem Cupom,Entregue,7
+PED-0030,2026-05-24,RJ,Perfumaria,183.65,24.02,VIP20,Entregue,5
+PED-0031,25/05/2026,PR,Perfumaria,58.88,20.09,BEMVINDO10,Entregue,6
+PED-0032,2026-05-25,PR,ELETRÔNICOS,1066.1,35.82,Sem Cupom,Cancelado,7
+PED-0033,2026-05-25,RJ,Casa e Decoração,389.65,38.85,BEMVINDO10,Entregue,2
+PED-0034,2026-05-25,GO,Acessórios,76.08,24.34,Sem Cupom,Entregue,7
+PED-0035,2026-05-25,SP,Eletrônicos,3849.18,17.9,VIP20,Entregue,3
+PED-0036,2026-05-25,SP,Casa e Decoração,113.6,29.35,Sem Cupom,Entregue,2
+PED-0037,2026-05-26,MG,ACESSÓRIOS,102.54,17.21,VIP20,Entregue,2
+PED-0038,26/05/2026,SP,Acessórios,88.09,0.0,FRETEGRATIS,Cancelado,5
+PED-0039,26/05/2026,SP,Moda,151.41,0.0,FRETEGRATIS,Entregue,4
+PED-0040,26/05/2026,RS,Casa e Decoração,201.92,37.22,Sem Cupom,Entregue,9
+PED-0041,2026-05-26,PE,Moda,169.71,0.0,FRETEGRATIS,Entregue,16
+PED-0042,27/05/2026,DF, Perfumaria ,286.96,30.27,Sem Cupom,Entregue,8
+PED-0043,27/05/2026,RS,Perfumaria,384.03,0.0,FRETEGRATIS,Devolvido,6
+PED-0044,2026-05-27,PE,Eletrônicos,898.38,,Sem Cupom,Entregue,13
+PED-0045,2026-05-27,SP,Casa e Decoração,405.5,18.35,Sem Cupom,Entregue,5
+PED-0046,28/05/2026,MG,Perfumaria,122.36,20.79,Sem Cupom,Entregue,4
+PED-0047,28/05/2026,RJ, Perfumaria ,274.3,25.37,Sem Cupom,Entregue,7
+PED-0048,2026-05-28,SP,Acessórios,56.98,12.31,Sem Cupom,Entregue,1
+PED-0049,2026-05-28,BA,Perfumaria,327.94,0.0,FRETEGRATIS,Entregue,10
+PED-0050,28/05/2026,MG,Perfumaria,607.17,17.2,Sem Cupom,Entregue,4
+PED-0051,2026-05-28,MG, Eletrônicos ,816.26,28.58,BEMVINDO10,Entregue,6
+PED-0052,28/05/2026,SP, Casa e Decoração ,42.49,16.87,Sem Cupom,Cancelado,1
+PED-0053,29/05/2026,SP,Perfumaria,133.16,0.0,FRETEGRATIS,Entregue,2
+PED-0054,29/05/2026,SC,Perfumaria,354.42,0.0,FRETEGRATIS,Entregue,8
+PED-0055,29/05/2026,SP,Perfumaria,244.0,20.74,Sem Cupom,Entregue,2
+PED-0056,2026-05-30,SP,Acessórios,104.5,21.04,BEMVINDO10,Entregue,5
+PED-0057,30/05/2026,SP,Moda,278.65,18.66,VIP20,Entregue,5
+PED-0058,30/05/2026,MG,casa e decoração,316.39,0.0,FRETEGRATIS,Entregue,4
+PED-0059,31/05/2026,DF,ACESSÓRIOS,186.88,27.7,Sem Cupom,Entregue,7
+PED-0060,2026-05-31,MG,Moda,265.3,27.7,Sem Cupom,Entregue,4
+PED-0061,2026-05-31,SP,Moda,369.48,0.0,FRETEGRATIS,Entregue,2
+PED-0062,2026-05-31,SP,Casa e Decoração,287.93,30.53,Sem Cupom,Entregue,4
+PED-0063,2026-06-01,RS,Moda,263.24,0.0,FRETEGRATIS,Entregue,7
+PED-0064,01/06/2026,GO,Moda,135.13,29.21,Sem Cupom,Entregue,5
+PED-0065,02/06/2026,GO,Acessórios,62.74,,FRETEGRATIS,Entregue,5
+PED-0066,02/06/2026,PR, Casa e Decoração ,791.32,32.03,Sem Cupom,Entregue,9
+PED-0067,02/06/2026,BA,Eletrônicos,1069.94,45.84,Sem Cupom,Devolvido,9
+PED-0068,2026-06-03,SP,eletrônicos,1713.51,28.42,VIP20,Entregue,2
+PED-0069,2026-06-03,RJ,Casa e Decoração,241.39,0.0,FRETEGRATIS,Entregue,5
+PED-0070,2026-06-03,MG,Casa e Decoração,141.7,0.0,FRETEGRATIS,Entregue,2
+PED-0071,2026-06-03,RJ,Casa e Decoração,221.82,28.57,VIP20,Entregue,3
+PED-0072,2026-06-03,RS,CASA E DECORAÇÃO,645.89,45.18,Sem Cupom,Entregue,6
+PED-0073,2026-06-03,MG,Casa e Decoração,333.64,34.74,Sem Cupom,Entregue,8
+PED-0074,2026-06-03,BA,Moda,62.42,50.61,Sem Cupom,Entregue,16
+PED-0075,04/06/2026,RS,Eletrônicos,757.63,51.49,Sem Cupom,Cancelado,11
+PED-0076,2026-06-04,MG,Perfumaria,479.73,,Sem Cupom,Cancelado,3
+PED-0077,2026-06-04,SC,Acessórios,79.16,28.98,VIP20,Entregue,7
+PED-0077,2026-06-04,SC,Acessórios,79.16,28.98,VIP20,Entregue,7
+PED-0078,2026-06-04,DF,Moda,59.44,26.84,Sem Cupom,Devolvido,8
+PED-0079,04/06/2026,RS,Moda,453.21,38.31,Sem Cupom,Devolvido,11
+PED-0080,04/06/2026,RJ,moda,232.87,18.55,Sem Cupom,Entregue,2
+PED-0081,2026-06-04,MG,Moda,153.96,17.54,Sem Cupom,Entregue,7
+PED-0082,2026-06-04,MG,Perfumaria,146.74,28.46,Sem Cupom,Entregue,3
+PED-0083,04/06/2026,SP,Casa e Decoração,495.41,30.2,BEMVINDO10,Entregue,3
+PED-0084,04/06/2026,RJ,Perfumaria,133.6,19.48,Sem Cupom,Entregue,7
+PED-0085,05/06/2026,SC,CASA E DECORAÇÃO,520.52,43.91,BEMVINDO10,Entregue,3
+PED-0086,05/06/2026,GO,Moda,215.59,0.0,FRETEGRATIS,Devolvido,5
+PED-0087,05/06/2026,SP,Perfumaria,205.93,14.58,BEMVINDO10,Entregue,5
+PED-0088,05/06/2026,RJ,CASA E DECORAÇÃO,245.37,27.87,BEMVINDO10,Entregue,2
+PED-0089,2026-06-05,SP,Perfumaria,163.49,,Sem Cupom,Entregue,4
+PED-0090,05/06/2026,SP,Eletrônicos,2077.47,,Sem Cupom,Entregue,3
+PED-0091,2026-06-05,SC,Eletrônicos,450.39,35.43,Sem Cupom,Cancelado,5
+PED-0092,05/06/2026,MG,Eletrônicos,245.88,28.95,VIP20,Entregue,8
+PED-0093,2026-06-05,RJ,Moda,224.33,18.53,BEMVINDO10,Entregue,7
+PED-0094,2026-06-05,DF,Casa e Decoração,353.21,50.8,Sem Cupom,Entregue,6
+PED-0095,05/06/2026,SP,Moda,208.37,18.27,Sem Cupom,Entregue,1
+PED-0096,06/06/2026,SP,Acessórios,114.94,0.0,FRETEGRATIS,Entregue,1
+PED-0097,2026-06-06,PR,ELETRÔNICOS,696.43,26.93,BEMVINDO10,Entregue,3
+PED-0098,06/06/2026,GO,Eletrônicos,1689.83,39.49,BEMVINDO10,Entregue,10
+PED-0099,2026-06-06,PE,Moda,156.04,0.0,FRETEGRATIS,Entregue,14
+PED-0100,2026-06-07,GO,Perfumaria,137.7,26.97,BEMVINDO10,Entregue,8
+PED-0101,07/06/2026,MG,Moda,134.78,18.66,BEMVINDO10,Entregue,3
+PED-0102,2026-06-07,BA,Eletrônicos,4531.95,47.26,Sem Cupom,Entregue,15
+PED-0102,2026-06-07,BA,Eletrônicos,4531.95,47.26,Sem Cupom,Entregue,15
+PED-0103,2026-06-07,SC,Acessórios,31.78,24.27,Sem Cupom,Entregue,8
+PED-0104,07/06/2026,PR,MODA,210.62,25.03,VIP20,Entregue,8
+PED-0105,2026-06-07,PE,perfumaria,71.48,41.24,BEMVINDO10,Entregue,13
+PED-0106,2026-06-07,BA,perfumaria,169.6,37.12,Sem Cupom,Entregue,13
+PED-0107,2026-06-07,RS,Moda,126.05,35.12,BEMVINDO10,Entregue,9
+PED-0108,08/06/2026,SP,Perfumaria,57.18,11.42,Sem Cupom,Entregue,2
+PED-0109,2026-06-08,PR,Casa e Decoração,294.54,,FRETEGRATIS,Devolvido,7
+PED-0110,2026-06-08,MG,Casa e Decoração,165.44,35.95,Sem Cupom,Entregue,4
+PED-0111,08/06/2026,DF,Perfumaria,56.74,0.0,FRETEGRATIS,Entregue,10
+PED-0112,2026-06-09,GO,Acessórios,148.94,24.07,Sem Cupom,Entregue,9
+PED-0113,2026-06-09,PE,Acessórios,212.9,36.39,Sem Cupom,Entregue,16
+PED-0114,09/06/2026,PE,Perfumaria,408.51,34.22,Sem Cupom,Entregue,15
+PED-0115,09/06/2026,SP,Moda,194.92,0.0,FRETEGRATIS,Entregue,3
+PED-0116,2026-06-09,PR,Eletrônicos,933.78,25.88,Sem Cupom,Entregue,9
+PED-0117,09/06/2026,PR,Eletrônicos,2604.3,29.38,Sem Cupom,Entregue,4
+PED-0118,09/06/2026,RJ,Casa e Decoração,776.98,0.0,FRETEGRATIS,Entregue,5
+PED-0119,2026-06-09,SP,Moda,298.46,21.55,Sem Cupom,Entregue,1
+PED-0120,09/06/2026,SP,Eletrônicos,423.76,17.02,Sem Cupom,Entregue,2
+PED-0121,10/06/2026,BA,eletrônicos,1057.3,48.45,Sem Cupom,Devolvido,12
+PED-0122,10/06/2026,MG,Casa e Decoração,305.9,0.0,FRETEGRATIS,Entregue,5
+PED-0123,10/06/2026,PE,Moda,59.14,52.44,Sem Cupom,Entregue,18
+PED-0124,10/06/2026,MG,Eletrônicos,1310.13,33.62,Sem Cupom,Entregue,6
+PED-0125,10/06/2026,PE,Perfumaria,628.35,36.93,Sem Cupom,Entregue,12
+PED-0126,10/06/2026,RJ,ACESSÓRIOS,132.13,16.57,Sem Cupom,Entregue,4
+PED-0127,10/06/2026,BA,Perfumaria,404.78,40.13,Sem Cupom,Entregue,13
+PED-0128,11/06/2026,SP, Eletrônicos ,1041.82,26.81,Sem Cupom,Entregue,4
+PED-0129,11/06/2026,DF,eletrônicos,848.8,43.97,Sem Cupom,Entregue,5
+PED-0130,11/06/2026,BA,Casa e Decoração,292.83,48.71,Sem Cupom,Entregue,12
+PED-0131,2026-06-11,SC,Casa e Decoração,119.31,0.0,FRETEGRATIS,Entregue,7
+PED-0132,2026-06-11,RS,Moda,94.17,27.58,Sem Cupom,Devolvido,5
+PED-0133,11/06/2026,SP,Acessórios,192.4,17.78,Sem Cupom,Entregue,5
+PED-0134,2026-06-11,RJ,Acessórios,205.04,24.65,VIP20,Entregue,5
+PED-0135,11/06/2026,SP,Moda,92.76,0.0,FRETEGRATIS,Entregue,2
+PED-0136,12/06/2026,SP,Casa e Decoração,454.69,17.0,BEMVINDO10,Entregue,4
+PED-0137,12/06/2026,PR,Casa e Decoração,206.11,,Sem Cupom,Cancelado,7
+PED-0137,12/06/2026,PR,Casa e Decoração,206.11,,Sem Cupom,Cancelado,7
+PED-0138,2026-06-12,PR,Moda,192.88,24.58,Sem Cupom,Entregue,9
+PED-0139,12/06/2026,BA,Perfumaria,231.85,48.29,Sem Cupom,Entregue,7
+PED-0140,2026-06-12,RS, Acessórios ,163.44,28.72,Sem Cupom,Entregue,8
+PED-0141,12/06/2026,PR,Acessórios,94.58,28.37,Sem Cupom,Entregue,4
+PED-0142,2026-06-13,BA,Eletrônicos,2780.88,47.49,BEMVINDO10,Entregue,12
+PED-0143,13/06/2026,SP, Casa e Decoração ,277.46,18.26,Sem Cupom,Devolvido,3
+PED-0144,13/06/2026,SP,Eletrônicos,1482.88,18.38,BEMVINDO10,Entregue,3
+PED-0145,13/06/2026,GO,Eletrônicos,462.1,29.35,Sem Cupom,Entregue,10
+PED-0146,13/06/2026,RS,Casa e Decoração,1110.56,42.62,Sem Cupom,Entregue,9
+PED-0147,2026-06-13,SP,Perfumaria,233.08,0.0,FRETEGRATIS,Entregue,3
+PED-0148,2026-06-13,MG,ACESSÓRIOS,138.05,0.0,FRETEGRATIS,Devolvido,2
+PED-0149,2026-06-13,PR,Moda,66.07,21.1,Sem Cupom,Entregue,5
+PED-0150,13/06/2026,SP,Moda,101.77,12.35,BEMVINDO10,Entregue,5
+PED-0151,13/06/2026,RJ,Perfumaria,355.6,17.04,Sem Cupom,Entregue,4
+PED-0152,2026-06-14,SC,Perfumaria,210.77,32.73,Sem Cupom,Entregue,10
+PED-0153,2026-06-14,PR,Perfumaria,62.83,30.85,BEMVINDO10,Entregue,6
+PED-0154,2026-06-14,SP,Eletrônicos,2065.29,14.5,Sem Cupom,Entregue,3
+PED-0155,14/06/2026,RS,Moda,118.64,36.83,Sem Cupom,Entregue,8
+PED-0156,2026-06-14,RJ,Casa e Decoração,634.04,34.9,Sem Cupom,Entregue,5
+PED-0157,2026-06-14,RS,Perfumaria,171.51,40.45,Sem Cupom,Entregue,5
+PED-0158,2026-06-15,SP,MODA,179.07,14.87,Sem Cupom,Entregue,1
+PED-0159,2026-06-15,DF,Perfumaria,344.25,26.35,Sem Cupom,Entregue,7
+PED-0160,2026-06-15,RJ,Eletrônicos,438.96,26.95,VIP20,Entregue,5
+PED-0161,2026-06-15,SP,Eletrônicos,406.72,26.61,BEMVINDO10,Entregue,3
+PED-0162,15/06/2026,RS,acessórios,79.99,34.33,Sem Cupom,Entregue,8
+PED-0163,15/06/2026,SP,Acessórios,147.84,15.41,Sem Cupom,Cancelado,2
+PED-0164,2026-06-15,SP,eletrônicos,310.35,17.46,BEMVINDO10,Entregue,4
+PED-0165,16/06/2026,RJ,Moda,63.93,24.05,Sem Cupom,Entregue,5
+PED-0166,2026-06-16,PR,MODA,251.7,29.8,Sem Cupom,Entregue,3
+PED-0167,16/06/2026,BA,MODA,114.84,0.0,FRETEGRATIS,Entregue,11
+PED-0168,16/06/2026,PE,Perfumaria,145.07,48.64,Sem Cupom,Entregue,15
+PED-0169,2026-06-16,SP,Eletrônicos,203.76,19.78,Sem Cupom,Entregue,4
+PED-0170,16/06/2026,RJ,Moda,110.14,21.37,Sem Cupom,Entregue,3
+PED-0171,16/06/2026,SP,Perfumaria,179.25,16.94,Sem Cupom,Entregue,5
+PED-0172,16/06/2026,DF,Casa e Decoração,442.04,47.63,Sem Cupom,Devolvido,8
+PED-0173,2026-06-16,PE,Acessórios,56.66,0.0,FRETEGRATIS,Entregue,12
+PED-0174,2026-06-17,PR, Eletrônicos ,3389.02,31.94,Sem Cupom,Entregue,7
+PED-0175,2026-06-17,DF,Acessórios,59.68,25.61,BEMVINDO10,Entregue,10
+PED-0175,2026-06-17,DF,Acessórios,59.68,25.61,BEMVINDO10,Entregue,10
+PED-0176,17/06/2026,RJ,Moda,109.89,20.23,BEMVINDO10,Entregue,3
+PED-0177,18/06/2026,SC,Acessórios,226.38,22.73,Sem Cupom,Entregue,4
+PED-0178,2026-06-18,MG,Casa e Decoração,257.81,28.8,Sem Cupom,Entregue,5
+PED-0179,18/06/2026,SP,Moda,118.1,11.81,Sem Cupom,Entregue,1
+PED-0180,2026-06-18,RJ,Casa e Decoração,195.84,30.08,BEMVINDO10,Entregue,7
+PED-0181,2026-06-18,SP,Acessórios,202.69,12.05,Sem Cupom,Entregue,5
+PED-0182,18/06/2026,SP, Moda ,358.38,14.85,BEMVINDO10,Cancelado,4
+PED-0183,18/06/2026,SP,Acessórios,55.13,0.0,FRETEGRATIS,Entregue,5
+PED-0184,18/06/2026,MG, Perfumaria ,175.85,0.0,FRETEGRATIS,Entregue,2
+PED-0185,18/06/2026,GO,Eletrônicos,967.31,39.31,VIP20,Entregue,8
+PED-0186,19/06/2026,RJ,Perfumaria,104.64,0.0,FRETEGRATIS,Entregue,4
+PED-0187,19/06/2026,MG,Casa e Decoração,211.0,0.0,FRETEGRATIS,Entregue,3
+PED-0188,2026-06-19,PE,Casa e Decoração,220.88,0.0,FRETEGRATIS,Entregue,11
+PED-0189,19/06/2026,BA,casa e decoração,517.38,55.81,BEMVINDO10,Entregue,12
+PED-0190,19/06/2026,DF,Perfumaria,349.69,0.0,FRETEGRATIS,Entregue,8
+PED-0191,2026-06-20,SP,Acessórios,73.87,15.8,VIP20,Entregue,1
+PED-0192,2026-06-20,SC,moda,142.24,24.24,Sem Cupom,Entregue,7
+PED-0193,2026-06-20,SP,Perfumaria,259.39,16.03,BEMVINDO10,Entregue,5
+PED-0194,2026-06-20,RJ,acessórios,63.35,20.84,Sem Cupom,Entregue,2
+PED-0195,20/06/2026,SC,Acessórios,128.12,0.0,FRETEGRATIS,Entregue,10
+PED-0196,2026-06-20,MG,CASA E DECORAÇÃO,205.96,34.55,Sem Cupom,Entregue,6
+PED-0197,21/06/2026,PR,Eletrônicos,414.42,0.0,FRETEGRATIS,Entregue,5
+PED-0198,2026-06-21,DF,Acessórios,50.69,0.0,FRETEGRATIS,Entregue,9
+PED-0199,2026-06-21,GO,Moda,354.62,33.36,VIP20,Entregue,8
+PED-0200,2026-06-21,SP,Acessórios,81.94,13.07,Sem Cupom,Entregue,4
+PED-0201,2026-06-21,SP,MODA,394.4,17.88,BEMVINDO10,Entregue,1
+PED-0202,21/06/2026,RJ,Moda,120.62,0.0,FRETEGRATIS,Entregue,2
+PED-0203,2026-06-22,SP,Perfumaria,211.27,14.5,VIP20,Cancelado,4
+PED-0204,2026-06-22,RS,Acessórios,378.2,37.04,VIP20,Entregue,7
+PED-0205,2026-06-23,SP,CASA E DECORAÇÃO,99.54,21.4,BEMVINDO10,Entregue,2
+PED-0206,2026-06-23,DF,Moda,56.34,25.7,BEMVINDO10,Entregue,6
+PED-0207,23/06/2026,BA,ELETRÔNICOS,2519.12,64.3,Sem Cupom,Entregue,14
+PED-0208,23/06/2026,BA,Casa e Decoração,118.34,67.8,VIP20,Entregue,8
+PED-0209,2026-06-23,MG,MODA,158.19,24.79,Sem Cupom,Entregue,8
+PED-0210,24/06/2026,MG,Perfumaria,130.41,16.82,BEMVINDO10,Entregue,4
+PED-0211,2026-06-24,PE,Acessórios,105.71,,FRETEGRATIS,Cancelado,9
+PED-0211,2026-06-24,PE,Acessórios,105.71,,FRETEGRATIS,Cancelado,9
+PED-0212,24/06/2026,PR,Perfumaria,106.72,27.27,Sem Cupom,Entregue,3
+PED-0213,24/06/2026,BA,Moda,144.92,35.84,Sem Cupom,Entregue,15
+PED-0214,2026-06-24,SC,MODA,204.91,25.14,Sem Cupom,Entregue,3
+PED-0215,24/06/2026,BA, Perfumaria ,103.38,0.0,FRETEGRATIS,Entregue,11
+PED-0216,25/06/2026,SP,Acessórios,59.13,13.36,Sem Cupom,Entregue,4
+PED-0217,2026-06-25,DF,PERFUMARIA,148.69,23.47,Sem Cupom,Entregue,7
+PED-0218,25/06/2026,SP,Casa e Decoração,75.34,16.22,BEMVINDO10,Entregue,2
+PED-0219,25/06/2026,GO,Acessórios,69.84,26.9,Sem Cupom,Devolvido,4
+PED-0220,2026-06-26,PE,Moda,170.8,0.0,FRETEGRATIS,Devolvido,15
+PED-0221,27/06/2026,MG,Eletrônicos,653.77,34.69,Sem Cupom,Entregue,5
+PED-0222,27/06/2026,MG,Perfumaria,155.04,17.6,Sem Cupom,Entregue,2
+PED-0223,28/06/2026,SP,Acessórios,88.93,12.37,Sem Cupom,Cancelado,1
+PED-0224,28/06/2026,PE,Casa e Decoração,134.53,65.93,Sem Cupom,Entregue,14
+PED-0225,29/06/2026,SP,Casa e Decoração,369.42,21.75,Sem Cupom,Entregue,1
+PED-0226,29/06/2026,SP,eletrônicos,2838.92,0.0,FRETEGRATIS,Entregue,2
+PED-0227,29/06/2026,SP,Perfumaria,139.43,21.61,Sem Cupom,Devolvido,1
+PED-0228,2026-06-29,SP,Moda,208.94,17.18,Sem Cupom,Devolvido,4
+PED-0229,2026-06-30,MG,Eletrônicos,743.0,27.38,Sem Cupom,Entregue,6
+PED-0230,30/06/2026,MG,Perfumaria,220.08,28.67,Sem Cupom,Entregue,7
+PED-0231,30/06/2026,RJ,Moda,378.55,16.9,VIP20,Entregue,2
+PED-0232,2026-06-30,SP,Eletrônicos,1351.98,27.74,Sem Cupom,Entregue,2
+PED-0233,30/06/2026,SP,Acessórios,31.06,15.74,VIP20,Cancelado,2
+PED-0234,01/07/2026,RJ,Perfumaria,231.05,21.64,Sem Cupom,Entregue,5
+PED-0235,01/07/2026,SP,moda,315.21,21.59,Sem Cupom,Entregue,5
+PED-0236,2026-07-01,PR,ACESSÓRIOS,78.8,24.31,Sem Cupom,Entregue,4
+PED-0236,2026-07-01,PR,ACESSÓRIOS,78.8,24.31,Sem Cupom,Entregue,4
+PED-0237,01/07/2026,SP,Moda,276.66,15.93,Sem Cupom,Entregue,4
+PED-0238,2026-07-01,RJ, Eletrônicos ,518.17,0.0,FRETEGRATIS,Cancelado,5
+PED-0239,2026-07-01,RJ,CASA E DECORAÇÃO,72.2,33.68,Sem Cupom,Entregue,6
+PED-0240,01/07/2026,RJ,Acessórios,97.96,21.11,Sem Cupom,Entregue,2
+PED-0241,01/07/2026,SP,Perfumaria,68.5,13.31,BEMVINDO10,Entregue,5
+PED-0242,2026-07-01,SP,Perfumaria,157.76,19.1,BEMVINDO10,Entregue,3
+PED-0243,02/07/2026,RS,Eletrônicos,2519.63,44.79,VIP20,Entregue,7
+PED-0244,02/07/2026,SP,Moda,55.97,15.45,VIP20,Entregue,1
+PED-0245,2026-07-02,MG, Acessórios ,41.77,15.35,BEMVINDO10,Entregue,8
+PED-0246,2026-07-02,MG,Acessórios,48.45,0.0,FRETEGRATIS,Entregue,8
+PED-0247,02/07/2026,RJ,Acessórios,86.64,0.0,FRETEGRATIS,Entregue,2
+PED-0248,03/07/2026,MG,Casa e Decoração,167.22,24.76,Sem Cupom,Entregue,5
+PED-0249,2026-07-03,BA,Casa e Decoração,628.28,58.38,BEMVINDO10,Entregue,14
+PED-0250,03/07/2026,RS,Casa e Decoração,450.06,38.21,Sem Cupom,Entregue,9
+PED-0251,03/07/2026,SP,ACESSÓRIOS,121.14,0.0,FRETEGRATIS,Entregue,1
+PED-0252,03/07/2026,RJ,Eletrônicos,1011.21,29.75,VIP20,Entregue,4
+PED-0253,03/07/2026,SP,Moda,198.63,14.41,Sem Cupom,Entregue,2
+PED-0254,2026-07-03,MG,Moda,99.59,0.0,FRETEGRATIS,Entregue,4
+PED-0255,2026-07-04,PR,Perfumaria,288.42,30.52,VIP20,Entregue,9
+PED-0256,2026-07-04,SP,Casa e Decoração,95.54,25.49,Sem Cupom,Entregue,2
+PED-0257,04/07/2026,RJ,Eletrônicos,1755.83,34.04,Sem Cupom,Cancelado,6
+PED-0258,05/07/2026,SC,Moda,307.22,32.66,VIP20,Entregue,10
+PED-0259,05/07/2026,SP,Moda,179.67,14.53,VIP20,Entregue,4
+PED-0260,2026-07-06,MG,MODA,145.22,25.64,Sem Cupom,Devolvido,7
+PED-0261,06/07/2026,PR,Perfumaria,224.33,21.4,Sem Cupom,Entregue,4
+PED-0262,2026-07-06,SP,Eletrônicos,150.0,,BEMVINDO10,Cancelado,1
+PED-0263,2026-07-06,SP,Eletrônicos,1146.19,21.14,Sem Cupom,Entregue,4
+PED-0264,2026-07-06,SP,ELETRÔNICOS,821.98,14.05,Sem Cupom,Devolvido,4
+PED-0265,07/07/2026,SC,Eletrônicos,864.28,32.85,Sem Cupom,Cancelado,8
+PED-0266,2026-07-07,SP,Eletrônicos,1583.86,28.08,Sem Cupom,Devolvido,3
+PED-0267,07/07/2026,SP,Moda,153.55,14.5,BEMVINDO10,Entregue,3
+PED-0268,07/07/2026,SP,Eletrônicos,361.49,16.51,BEMVINDO10,Entregue,1
+PED-0269,07/07/2026,SP,Eletrônicos,803.74,16.6,BEMVINDO10,Entregue,2
+PED-0270,2026-07-08,GO,Moda,166.06,0.0,FRETEGRATIS,Entregue,7
+PED-0271,08/07/2026,SP,Casa e Decoração,239.81,29.84,Sem Cupom,Entregue,1
+PED-0272,08/07/2026,DF,Acessórios,99.18,30.91,Sem Cupom,Devolvido,4
+PED-0273,2026-07-08,DF,Acessórios,167.91,26.82,Sem Cupom,Entregue,4
+PED-0274,08/07/2026,RS,Moda,88.05,28.39,Sem Cupom,Entregue,6
+PED-0275,08/07/2026,SP,Acessórios,100.01,10.71,Sem Cupom,Entregue,5
+PED-0276,2026-07-09,RS,Casa e Decoração,578.87,46.62,Sem Cupom,Entregue,10
+PED-0277,09/07/2026,GO,Acessórios,31.79,31.64,Sem Cupom,Entregue,10
+PED-0278,2026-07-09,SP,Casa e Decoração,251.73,27.93,Sem Cupom,Entregue,2
+PED-0279,2026-07-09,BA,Perfumaria,130.45,39.96,BEMVINDO10,Entregue,12
+PED-0280,09/07/2026,RS,Casa e Decoração,166.6,,BEMVINDO10,Cancelado,12
+PED-0281,2026-07-09,SP,Eletrônicos,436.4,20.32,VIP20,Entregue,2
+PED-0281,2026-07-09,SP,Eletrônicos,436.4,20.32,VIP20,Entregue,2
+PED-0282,2026-07-10,SC, Acessórios ,81.29,0.0,FRETEGRATIS,Entregue,8
+PED-0283,2026-07-10,MG,PERFUMARIA,495.54,22.72,BEMVINDO10,Entregue,6
+PED-0284,2026-07-10,GO,Eletrônicos,327.29,40.5,Sem Cupom,Cancelado,9
+PED-0285,2026-07-10,PE,Perfumaria,94.6,45.17,BEMVINDO10,Devolvido,18
+PED-0286,10/07/2026,RJ,Moda,78.19,26.36,Sem Cupom,Entregue,5
+PED-0287,2026-07-10,BA,Perfumaria,465.47,,Sem Cupom,Entregue,12
+PED-0288,2026-07-10,RJ,Acessórios,68.2,15.46,Sem Cupom,Entregue,7
+PED-0289,10/07/2026,BA,MODA,157.76,36.39,Sem Cupom,Entregue,13
+PED-0290,11/07/2026,GO,eletrônicos,652.08,37.39,Sem Cupom,Entregue,6
+PED-0291,2026-07-11,SP,Acessórios,51.07,16.17,BEMVINDO10,Entregue,4
+PED-0292,2026-07-11,RJ,Perfumaria,158.16,0.0,FRETEGRATIS,Entregue,5
+PED-0293,2026-07-11,RJ,Eletrônicos,6431.67,0.0,FRETEGRATIS,Entregue,3
+PED-0294,2026-07-12,SP,Acessórios,207.48,13.23,BEMVINDO10,Entregue,3
+PED-0295,2026-07-12,SP,Moda,100.09,18.58,Sem Cupom,Cancelado,4
+PED-0296,12/07/2026,RJ,PERFUMARIA,257.01,23.8,Sem Cupom,Entregue,7
+PED-0297,12/07/2026,SP,casa e decoração,117.92,22.55,BEMVINDO10,Entregue,3
+PED-0298,2026-07-12,SP,Perfumaria,67.76,15.51,Sem Cupom,Entregue,1
+PED-0299,12/07/2026,PR,Casa e Decoração,472.61,31.62,Sem Cupom,Cancelado,9
+PED-0300,2026-07-13,PR,Acessórios,180.52,23.27,Sem Cupom,Entregue,7
+PED-0301,2026-07-13,PR,casa e decoração,482.11,41.9,VIP20,Entregue,5
+PED-0302,2026-07-13,RJ,Acessórios,67.89,24.57,BEMVINDO10,Entregue,6
+PED-0303,2026-07-13,SC,Eletrônicos,787.59,,Sem Cupom,Entregue,6
+PED-0304,13/07/2026,DF,Acessórios,141.13,,BEMVINDO10,Devolvido,6
+PED-0305,2026-07-13,SP,Acessórios,113.83,17.74,Sem Cupom,Entregue,5
+PED-0306,13/07/2026,SP,Acessórios,71.07,18.38,Sem Cupom,Entregue,5
+PED-0307,2026-07-13,PR,Eletrônicos,246.44,30.27,Sem Cupom,Entregue,6
+PED-0308,14/07/2026,SP,Casa e Decoração,239.62,29.57,Sem Cupom,Entregue,2
+PED-0309,14/07/2026,MG,casa e decoração,494.17,24.74,BEMVINDO10,Entregue,8
+PED-0310,2026-07-14,PE,Eletrônicos,345.27,44.0,Sem Cupom,Entregue,9
+PED-0311,2026-07-14,SP,Perfumaria,255.77,0.0,FRETEGRATIS,Entregue,4
+PED-0312,15/07/2026,SP,Casa e Decoração,282.11,18.24,Sem Cupom,Entregue,3
+PED-0313,15/07/2026,PE,Acessórios,141.16,50.23,BEMVINDO10,Cancelado,17
+PED-0314,2026-07-15,DF,Perfumaria,290.77,28.24,BEMVINDO10,Cancelado,6
+PED-0315,15/07/2026,SP,Moda,109.2,14.02,BEMVINDO10,Cancelado,5
+PED-0316,2026-07-15,SC,Casa e Decoração,65.43,39.75,BEMVINDO10,Entregue,3
+PED-0317,2026-07-15,RS,acessórios,65.35,29.51,VIP20,Entregue,11
+PED-0318,15/07/2026,MG,Casa e Decoração,428.58,28.89,Sem Cupom,Entregue,2
+PED-0319,2026-07-15,GO,Casa e Decoração,146.51,,BEMVINDO10,Devolvido,8
+PED-0320,2026-07-16,SP,Casa e Decoração,130.72,26.68,BEMVINDO10,Entregue,1
+PED-0320,2026-07-16,SP,Casa e Decoração,130.72,26.68,BEMVINDO10,Entregue,1
+PED-0321,2026-07-16,SP,Moda,58.76,12.4,Sem Cupom,Entregue,5
+PED-0322,2026-07-16,DF,Casa e Decoração,819.02,,Sem Cupom,Entregue,9
+PED-0323,2026-07-16,SP,CASA E DECORAÇÃO,408.67,19.01,Sem Cupom,Entregue,1
+PED-0324,2026-07-16,GO,CASA E DECORAÇÃO,391.92,46.76,Sem Cupom,Devolvido,10
+PED-0325,16/07/2026,RS,acessórios,160.85,35.44,Sem Cupom,Entregue,7
+PED-0326,16/07/2026,SP,Eletrônicos,1427.62,15.67,Sem Cupom,Entregue,3
+PED-0327,2026-07-16,DF,Casa e Decoração,183.16,34.19,BEMVINDO10,Entregue,4
+PED-0328,2026-07-17,SP,casa e decoração,194.57,31.65,Sem Cupom,Entregue,1
+PED-0329,17/07/2026,RS,Moda,126.47,0.0,FRETEGRATIS,Entregue,6
+PED-0330,2026-07-17,SP,Casa e Decoração,1587.13,26.25,Sem Cupom,Devolvido,3
+PED-0331,2026-07-18,GO,CASA E DECORAÇÃO,333.81,32.95,BEMVINDO10,Entregue,7
+PED-0332,18/07/2026,DF,Moda,123.98,26.26,Sem Cupom,Entregue,9
+PED-0333,2026-07-18,RJ,Casa e Decoração,311.92,31.28,Sem Cupom,Entregue,2
+PED-0334,18/07/2026,PR,ELETRÔNICOS,400.9,38.55,Sem Cupom,Entregue,8
+PED-0335,19/07/2026,PR,Eletrônicos,2998.9,29.36,BEMVINDO10,Entregue,3
+PED-0336,19/07/2026,DF,Eletrônicos,530.35,42.12,Sem Cupom,Entregue,6
+PED-0337,2026-07-19,BA,Eletrônicos,1343.81,57.77,VIP20,Cancelado,8
+PED-0338,2026-07-19,PE, Casa e Decoração ,489.37,53.0,Sem Cupom,Entregue,9
+PED-0339,2026-07-19,RJ,Acessórios,113.37,18.29,BEMVINDO10,Entregue,5
+PED-0340,20/07/2026,MG,Acessórios,95.25,18.13,Sem Cupom,Entregue,8
+PED-0341,20/07/2026,SP,Eletrônicos,907.81,20.42,BEMVINDO10,Entregue,4
+PED-0342,20/07/2026,BA,Casa e Decoração,210.88,64.5,Sem Cupom,Entregue,15
+PED-0343,2026-07-21,MG,Eletrônicos,567.38,27.68,Sem Cupom,Cancelado,6
+PED-0344,21/07/2026,RJ,Moda,124.96,,Sem Cupom,Entregue,2
+PED-0345,22/07/2026,SP,Eletrônicos,2939.71,24.2,Sem Cupom,Devolvido,2
+PED-0346,22/07/2026,RS,Acessórios,84.33,32.25,Sem Cupom,Entregue,11
+PED-0347,23/07/2026,RJ,Perfumaria,116.84,21.81,VIP20,Entregue,2
+PED-0348,2026-07-24,PR,Acessórios,66.02,24.83,Sem Cupom,Entregue,3
+PED-0349,2026-07-24,SP,Casa e Decoração,502.15,19.35,Sem Cupom,Entregue,5
+PED-0350,24/07/2026,PE,acessórios,134.99,46.18,VIP20,Cancelado,8
+PED-0351,2026-07-24,SP,Perfumaria,244.97,,Sem Cupom,Entregue,5
+PED-0352,2026-07-24,SP,Moda,138.87,15.05,Sem Cupom,Entregue,4
+PED-0353,2026-07-24,RS,Casa e Decoração,338.2,39.71,BEMVINDO10,Entregue,10
+PED-0354,2026-07-25,SC,Acessórios,61.17,27.85,VIP20,Cancelado,7
+PED-0355,25/07/2026,SP,Moda,138.71,17.85,BEMVINDO10,Entregue,1
+PED-0356,2026-07-25,MG,Moda,272.75,20.49,Sem Cupom,Entregue,4
+PED-0357,2026-07-25,PR,Perfumaria,291.14,29.86,VIP20,Entregue,8
+PED-0358,25/07/2026,RS,Perfumaria,104.89,,Sem Cupom,Cancelado,12
+PED-0359,25/07/2026,RJ, Perfumaria ,112.44,17.38,VIP20,Entregue,4
+PED-0360,2026-07-25,MG,Perfumaria,191.09,0.0,FRETEGRATIS,Entregue,7
+PED-0361,2026-07-25,PR,Casa e Decoração,802.9,35.26,VIP20,Devolvido,8
+PED-0362,2026-07-25,PR,Moda,55.79,31.5,Sem Cupom,Entregue,3
+PED-0363,2026-07-26,BA,Moda,186.47,36.16,Sem Cupom,Entregue,13
+PED-0364,2026-07-26,DF,Casa e Decoração,78.38,37.97,BEMVINDO10,Entregue,8
+PED-0365,2026-07-26,SP,Acessórios,61.51,15.09,Sem Cupom,Entregue,3
+PED-0366,26/07/2026,SC,Moda,130.94,25.64,Sem Cupom,Entregue,9
+PED-0367,26/07/2026,RS,Moda,126.96,35.79,VIP20,Entregue,12
+PED-0368,27/07/2026,BA,Eletrônicos,587.2,52.97,BEMVINDO10,Entregue,12
+PED-0369,2026-07-27,SP,Casa e Decoração,221.19,19.33,Sem Cupom,Entregue,2
+PED-0370,2026-07-27,SP,Moda,119.2,16.72,Sem Cupom,Entregue,5
+PED-0371,28/07/2026,PR, Perfumaria ,80.53,30.2,Sem Cupom,Entregue,9
+PED-0372,28/07/2026,SP,casa e decoração,394.86,28.99,Sem Cupom,Entregue,4
+PED-0372,28/07/2026,SP,casa e decoração,394.86,28.99,Sem Cupom,Entregue,4
+PED-0373,28/07/2026,PE,Moda,242.08,44.97,Sem Cupom,Entregue,15
+PED-0374,2026-07-29,RJ,Moda,254.4,0.0,FRETEGRATIS,Entregue,2
+PED-0375,2026-07-30,PR,Moda,68.56,21.9,BEMVINDO10,Entregue,5
+PED-0376,30/07/2026,RS,acessórios,107.68,36.49,Sem Cupom,Entregue,6
+PED-0377,31/07/2026,RJ,PERFUMARIA,261.06,23.87,Sem Cupom,Entregue,5
+PED-0378,2026-07-31,RJ,perfumaria,102.08,22.38,BEMVINDO10,Entregue,6
+PED-0379,31/07/2026,GO,Casa e Decoração,221.52,0.0,FRETEGRATIS,Devolvido,5
+PED-0380,31/07/2026,DF,Casa e Decoração,201.63,0.0,FRETEGRATIS,Entregue,10
+PED-0381,01/08/2026,RJ,CASA E DECORAÇÃO,875.89,34.05,Sem Cupom,Entregue,2
+PED-0382,2026-08-01,GO,Acessórios,285.58,0.0,FRETEGRATIS,Entregue,4
+PED-0383,01/08/2026,SC,Casa e Decoração,63.14,,Sem Cupom,Entregue,10
+PED-0384,01/08/2026,MG,Acessórios,401.88,20.84,Sem Cupom,Entregue,2
+PED-0385,2026-08-01,SP,Perfumaria,108.81,0.0,FRETEGRATIS,Entregue,4
+PED-0386,02/08/2026,RJ,Perfumaria,308.69,,Sem Cupom,Devolvido,6
+PED-0387,02/08/2026,RJ,Eletrônicos,1956.27,25.17,Sem Cupom,Entregue,3
+PED-0388,02/08/2026,SP,eletrônicos,405.79,25.98,Sem Cupom,Entregue,1
+PED-0389,2026-08-02,SP,MODA,209.87,19.56,Sem Cupom,Entregue,2
+PED-0390,02/08/2026,PR,casa e decoração,202.95,39.89,Sem Cupom,Entregue,3
+PED-0391,2026-08-03,RJ,Perfumaria,244.16,,BEMVINDO10,Cancelado,6
+PED-0392,2026-08-03,PE,Acessórios,103.36,40.62,Sem Cupom,Entregue,17
+PED-0393,2026-08-03,SP,Casa e Decoração,539.63,22.19,Sem Cupom,Entregue,5
+PED-0394,2026-08-03,SP,eletrônicos,955.96,0.0,FRETEGRATIS,Entregue,5
+PED-0395,2026-08-03,BA,Perfumaria,164.12,37.21,Sem Cupom,Entregue,14
+PED-0396,2026-08-03,RS, Eletrônicos ,2162.99,49.4,VIP20,Entregue,12
+PED-0397,03/08/2026,SP,Acessórios,127.49,15.44,Sem Cupom,Entregue,4
+PED-0398,2026-08-03,SP,Perfumaria,269.2,14.79,BEMVINDO10,Entregue,4
+PED-0399,03/08/2026,SP,eletrônicos,528.86,17.03,Sem Cupom,Entregue,5
+PED-0400,2026-08-03,MG,Eletrônicos,390.01,0.0,FRETEGRATIS,Entregue,4
+PED-0401,04/08/2026,MG, Casa e Decoração ,143.72,36.44,Sem Cupom,Entregue,4
+PED-0402,04/08/2026,SP,Eletrônicos,547.71,18.09,VIP20,Entregue,5
+PED-0403,05/08/2026,SP,Moda,246.55,19.67,Sem Cupom,Entregue,2
+PED-0404,05/08/2026,MG,Eletrônicos,1964.87,30.84,BEMVINDO10,Entregue,4
+PED-0405,05/08/2026,PE,CASA E DECORAÇÃO,195.84,,Sem Cupom,Entregue,9
+PED-0406,2026-08-05,GO,Casa e Decoração,643.43,37.39,Sem Cupom,Devolvido,5
+PED-0407,2026-08-06,MG,Casa e Decoração,613.99,34.88,Sem Cupom,Entregue,6
+PED-0408,2026-08-06,SP,eletrônicos,1093.47,16.1,Sem Cupom,Entregue,5
+PED-0409,2026-08-06,SP,Moda,101.81,15.06,Sem Cupom,Entregue,1
+PED-0410,2026-08-06,SP,moda,380.56,19.28,BEMVINDO10,Entregue,4
+PED-0411,2026-08-06,BA,ELETRÔNICOS,857.12,56.96,Sem Cupom,Cancelado,14
+PED-0412,06/08/2026,RS,Eletrônicos,995.58,35.87,Sem Cupom,Entregue,12
+PED-0412,06/08/2026,RS,Eletrônicos,995.58,35.87,Sem Cupom,Entregue,12
+PED-0413,06/08/2026,SC,Moda,132.74,32.54,Sem Cupom,Entregue,9
+PED-0414,06/08/2026,PE,Casa e Decoração,112.88,51.06,Sem Cupom,Devolvido,9
+PED-0415,06/08/2026,PE,Eletrônicos,277.96,60.13,Sem Cupom,Cancelado,13
+PED-0416,2026-08-06,PE,Eletrônicos,1493.22,70.85,BEMVINDO10,Entregue,18
+PED-0417,2026-08-06,SP,acessórios,56.25,16.07,Sem Cupom,Entregue,5
+PED-0418,06/08/2026,SP,Acessórios,564.27,0.0,FRETEGRATIS,Entregue,4
+PED-0419,07/08/2026,RJ,Casa e Decoração,97.42,32.68,Sem Cupom,Entregue,7
+PED-0420,2026-08-07,DF,Moda,80.13,33.07,Sem Cupom,Entregue,8
+PED-0421,2026-08-07,SP,Casa e Decoração,322.54,0.0,FRETEGRATIS,Entregue,1
+PED-0422,2026-08-07,RS,perfumaria,417.41,35.77,Sem Cupom,Entregue,12
+PED-0423,2026-08-07,GO,CASA E DECORAÇÃO,230.92,36.94,Sem Cupom,Entregue,5
+PED-0424,2026-08-07,DF,Perfumaria,246.58,32.51,VIP20,Entregue,6
+PED-0425,2026-08-08,SP,Perfumaria,65.3,13.58,VIP20,Entregue,2
+PED-0426,08/08/2026,SP, Eletrônicos ,523.42,28.46,BEMVINDO10,Entregue,4
+PED-0427,08/08/2026,SP,Perfumaria,99.73,13.47,Sem Cupom,Entregue,1
+PED-0428,08/08/2026,RS,Acessórios,28.87,27.22,BEMVINDO10,Entregue,10
+PED-0429,08/08/2026,DF,ELETRÔNICOS,988.29,43.56,VIP20,Entregue,10
+PED-0430,08/08/2026,PR,CASA E DECORAÇÃO,40.92,32.71,VIP20,Entregue,8
+PED-0431,2026-08-08,SP,Acessórios,40.71,14.19,Sem Cupom,Entregue,2
+PED-0432,08/08/2026,RJ,Casa e Decoração,147.04,34.55,Sem Cupom,Entregue,7
+PED-0433,2026-08-08,RJ,ACESSÓRIOS,54.65,16.92,Sem Cupom,Entregue,4
+PED-0434,09/08/2026,BA,Moda,198.98,34.79,Sem Cupom,Entregue,13
+PED-0435,2026-08-09,BA,Acessórios,108.11,39.26,BEMVINDO10,Entregue,12
+PED-0436,09/08/2026,SP,eletrônicos,1839.84,17.44,Sem Cupom,Entregue,1
+PED-0437,09/08/2026,PE,Casa e Decoração,386.8,56.75,Sem Cupom,Entregue,8
+PED-0438,2026-08-09,SP,Casa e Decoração,517.62,15.76,Sem Cupom,Cancelado,1
+PED-0439,2026-08-10,SC,Perfumaria,179.81,26.83,Sem Cupom,Entregue,10
+PED-0440,2026-08-10,SP,Eletrônicos,1147.3,18.56,Sem Cupom,Entregue,5
+PED-0441,10/08/2026,SP,Perfumaria,238.48,11.16,Sem Cupom,Devolvido,3
+PED-0442,10/08/2026,RS,Casa e Decoração,244.66,50.13,Sem Cupom,Cancelado,12
+PED-0443,2026-08-10,SP,Casa e Decoração,163.32,,VIP20,Entregue,1
+PED-0444,10/08/2026,RJ,eletrônicos,689.83,21.68,Sem Cupom,Entregue,7
+PED-0445,2026-08-10,MG,Moda,102.06,20.19,Sem Cupom,Devolvido,3
+PED-0446,2026-08-10,SP,Moda,201.76,,Sem Cupom,Entregue,1
+PED-0447,2026-08-10,PR,Eletrônicos,834.79,34.0,Sem Cupom,Entregue,8
+PED-0448,10/08/2026,RS,Moda,111.1,,Sem Cupom,Entregue,8
+PED-0449,2026-08-11,RS,eletrônicos,529.85,41.29,Sem Cupom,Entregue,7
+PED-0450,2026-08-11,RJ,Moda,82.22,18.45,Sem Cupom,Entregue,6
+PED-0451,2026-08-11,MG,Moda,274.11,26.43,Sem Cupom,Entregue,4
+PED-0452,11/08/2026,SP,eletrônicos,958.42,27.46,BEMVINDO10,Entregue,4
+PED-0453,11/08/2026,SP,Acessórios,53.63,20.26,Sem Cupom,Entregue,1
+PED-0454,11/08/2026,SP,Moda,249.6,13.42,Sem Cupom,Entregue,1
+PED-0455,11/08/2026,PE,moda,117.56,40.91,BEMVINDO10,Cancelado,11
+PED-0456,11/08/2026,RS,Moda,73.82,27.66,Sem Cupom,Entregue,9
+PED-0457,2026-08-12,BA,Casa e Decoração,473.21,54.69,Sem Cupom,Devolvido,9
+PED-0458,12/08/2026,MG,eletrônicos,585.65,26.06,Sem Cupom,Cancelado,3
+PED-0459,2026-08-12,MG,MODA,127.78,24.18,Sem Cupom,Entregue,7
+PED-0460,2026-08-12,MG,Casa e Decoração,226.9,26.85,Sem Cupom,Entregue,5
+PED-0461,2026-08-12,MG,casa e decoração,518.31,40.13,VIP20,Entregue,5
+PED-0462,2026-08-12,MG,Casa e Decoração,223.33,25.28,VIP20,Devolvido,3
+PED-0463,13/08/2026,SP,Casa e Decoração,89.5,15.72,VIP20,Entregue,1
+PED-0464,13/08/2026,SP,ELETRÔNICOS,1390.61,26.58,Sem Cupom,Entregue,1
+PED-0465,13/08/2026,PE,Acessórios,67.28,46.66,Sem Cupom,Cancelado,15
+PED-0466,2026-08-13,MG,ELETRÔNICOS,4075.44,26.42,Sem Cupom,Entregue,2
+PED-0467,13/08/2026,PE,Acessórios,89.94,,Sem Cupom,Cancelado,10
+PED-0468,14/08/2026,SP,Moda,46.8,13.42,Sem Cupom,Entregue,5
+PED-0469,2026-08-14,DF,Casa e Decoração,287.62,35.78,Sem Cupom,Entregue,6
+PED-0470,14/08/2026,SP,CASA E DECORAÇÃO,945.84,23.56,Sem Cupom,Entregue,4
+PED-0471,14/08/2026,SP,Perfumaria,428.25,,Sem Cupom,Entregue,2
+PED-0472,2026-08-14,SP,Moda,437.99,18.0,Sem Cupom,Entregue,5
+PED-0473,14/08/2026,SP,Acessórios,48.81,12.61,BEMVINDO10,Devolvido,5
+PED-0474,14/08/2026,SC,Perfumaria,297.27,30.26,Sem Cupom,Entregue,6
+PED-0475,2026-08-15,RJ,Eletrônicos,505.12,0.0,FRETEGRATIS,Entregue,6
+PED-0476,2026-08-15,GO,Eletrônicos,1076.88,31.62,Sem Cupom,Cancelado,6
+PED-0477,16/08/2026,MG,Casa e Decoração,84.68,24.2,Sem Cupom,Entregue,8
+PED-0478,16/08/2026,RJ,Moda,112.25,20.95,Sem Cupom,Entregue,4
+PED-0479,16/08/2026,MG,Acessórios,59.98,24.51,Sem Cupom,Devolvido,7
+PED-0480,16/08/2026,SP,Eletrônicos,1846.85,23.53,Sem Cupom,Entregue,4
+PED-0481,16/08/2026,PE,MODA,248.53,49.36,Sem Cupom,Entregue,15
+PED-0482,17/08/2026,BA,perfumaria,209.6,39.84,BEMVINDO10,Entregue,10
+PED-0483,17/08/2026,PR,Moda,76.13,22.55,Sem Cupom,Entregue,8
+PED-0484,17/08/2026,MG,Perfumaria,151.65,22.9,Sem Cupom,Entregue,7
+PED-0485,2026-08-17,SP,Casa e Decoração,125.72,19.05,VIP20,Entregue,5
+PED-0486,17/08/2026,SC, Moda ,258.14,31.0,Sem Cupom,Entregue,9
+PED-0487,17/08/2026,RJ,Perfumaria,344.11,18.33,BEMVINDO10,Entregue,2
+PED-0488,18/08/2026,SP,Acessórios,169.63,13.42,Sem Cupom,Entregue,5
+PED-0489,18/08/2026,RJ,MODA,105.62,21.67,Sem Cupom,Entregue,7
+PED-0490,18/08/2026,BA,Eletrônicos,150.0,53.12,Sem Cupom,Entregue,9
+PED-0491,2026-08-18,GO,Eletrônicos,218.95,39.11,Sem Cupom,Entregue,10
+PED-0492,2026-08-18,BA,Acessórios,211.2,38.3,BEMVINDO10,Entregue,12
+PED-0493,2026-08-18,BA,Perfumaria,144.35,50.53,Sem Cupom,Devolvido,10
+PED-0494,2026-08-18,SP,Eletrônicos,493.64,26.36,Sem Cupom,Entregue,2
+PED-0495,2026-08-19,SC, Casa e Decoração ,754.17,47.36,Sem Cupom,Entregue,5
+PED-0496,2026-08-19,MG,Acessórios,192.27,22.79,VIP20,Entregue,2
+PED-0497,2026-08-19,GO,Perfumaria,182.44,0.0,FRETEGRATIS,Entregue,8
+PED-0498,2026-08-19,SP,perfumaria,153.18,,VIP20,Devolvido,4
+PED-0499,19/08/2026,PE,moda,148.79,43.59,BEMVINDO10,Entregue,15
+PED-0500,19/08/2026,SP,Casa e Decoração,260.86,21.04,BEMVINDO10,Entregue,3
+PED-0501,2026-08-19,SP,Moda,385.75,17.73,Sem Cupom,Entregue,2
+PED-0502,2026-08-20,MG,Casa e Decoração,302.02,23.86,VIP20,Entregue,7
+PED-0503,2026-08-20,SP,Moda,238.53,10.89,Sem Cupom,Entregue,5
+PED-0504,2026-08-20,SP,Acessórios,181.52,19.61,Sem Cupom,Devolvido,1
+PED-0505,2026-08-20,GO,Eletrônicos,353.07,29.55,BEMVINDO10,Entregue,6
+PED-0506,2026-08-20,RJ,MODA,242.34,21.87,Sem Cupom,Entregue,7
+PED-0507,2026-08-21,SC,Casa e Decoração,176.39,42.89,Sem Cupom,Entregue,9
+PED-0508,21/08/2026,RJ,Eletrônicos,150.0,23.43,Sem Cupom,Entregue,7
+PED-0509,21/08/2026,PR,Eletrônicos,164.0,38.69,Sem Cupom,Entregue,4
+PED-0510,21/08/2026,MG,ACESSÓRIOS,48.86,0.0,FRETEGRATIS,Entregue,5
+PED-0511,2026-08-21,GO,Eletrônicos,1376.6,44.01,Sem Cupom,Entregue,4
+PED-0512,2026-08-21,DF,Perfumaria,191.63,0.0,FRETEGRATIS,Entregue,10
+PED-0513,22/08/2026,MG,Eletrônicos,1043.03,24.58,Sem Cupom,Cancelado,5
+PED-0514,2026-08-22,PE,Casa e Decoração,950.35,0.0,FRETEGRATIS,Entregue,10
+PED-0514,2026-08-22,PE,Casa e Decoração,950.35,0.0,FRETEGRATIS,Entregue,10
+PED-0515,22/08/2026,RJ,Casa e Decoração,84.93,28.33,Sem Cupom,Devolvido,2
+PED-0516,22/08/2026,SP, Casa e Decoração ,215.52,22.33,VIP20,Entregue,4
+PED-0517,22/08/2026,PR,Perfumaria,212.81,22.68,Sem Cupom,Entregue,8
+PED-0518,2026-08-22,RS,Eletrônicos,499.38,51.73,Sem Cupom,Cancelado,12
+PED-0519,22/08/2026,SP,Casa e Decoração,224.72,19.48,Sem Cupom,Entregue,5
+PED-0520,2026-08-23,MG,Perfumaria,74.66,26.67,Sem Cupom,Entregue,7
+PED-0521,2026-08-23,SC,Acessórios,209.72,23.01,Sem Cupom,Entregue,9
+PED-0522,2026-08-23,PR,Eletrônicos,521.71,39.95,BEMVINDO10,Entregue,8
+PED-0522,2026-08-23,PR,Eletrônicos,521.71,39.95,BEMVINDO10,Entregue,8
+PED-0523,24/08/2026,PE,Eletrônicos,4571.13,49.92,VIP20,Cancelado,18
+PED-0524,24/08/2026,MG,Perfumaria,176.81,21.51,BEMVINDO10,Entregue,5
+PED-0525,2026-08-24,GO,casa e decoração,475.64,43.39,Sem Cupom,Cancelado,9
+PED-0526,2026-08-24,RJ,Perfumaria,174.8,17.5,Sem Cupom,Entregue,6
+PED-0527,24/08/2026,PE,moda,157.32,0.0,FRETEGRATIS,Entregue,9
+PED-0528,24/08/2026,RJ,Perfumaria,130.55,0.0,FRETEGRATIS,Entregue,6
+PED-0528,24/08/2026,RJ,Perfumaria,130.55,0.0,FRETEGRATIS,Entregue,6
+PED-0529,2026-08-25,PR,Casa e Decoração,240.56,37.88,Sem Cupom,Cancelado,5
+PED-0530,2026-08-25,RJ,Casa e Decoração,279.26,31.97,VIP20,Entregue,2
+PED-0531,25/08/2026,DF,Eletrônicos,480.58,39.15,Sem Cupom,Cancelado,5
+PED-0532,25/08/2026,PR,casa e decoração,200.31,0.0,FRETEGRATIS,Entregue,3
+PED-0533,25/08/2026,MG,Perfumaria,128.69,18.32,VIP20,Entregue,8
+PED-0534,2026-08-26,SC,Casa e Decoração,1234.44,35.22,BEMVINDO10,Entregue,9
+PED-0535,2026-08-26,RJ,eletrônicos,837.66,24.87,Sem Cupom,Entregue,2
+PED-0536,2026-08-26,GO,Acessórios,227.45,,BEMVINDO10,Devolvido,8
+PED-0537,2026-08-26,RJ,Moda,143.68,26.16,Sem Cupom,Entregue,5
+PED-0538,26/08/2026,RJ,Eletrônicos,1107.46,0.0,FRETEGRATIS,Entregue,5
+PED-0539,2026-08-26,MG,CASA E DECORAÇÃO,81.66,34.75,Sem Cupom,Entregue,6
+PED-0540,26/08/2026,SP,Acessórios,68.82,14.15,BEMVINDO10,Entregue,5
+PED-0541,26/08/2026,SP,Perfumaria,202.1,14.03,VIP20,Entregue,3
+PED-0542,27/08/2026,GO,acessórios,233.09,27.67,Sem Cupom,Cancelado,8
+PED-0543,27/08/2026,GO,Acessórios,102.82,25.0,Sem Cupom,Entregue,7
+PED-0544,27/08/2026,GO,MODA,342.48,,BEMVINDO10,Entregue,6
+PED-0545,2026-08-27,SP,moda,227.6,16.1,Sem Cupom,Entregue,5
+PED-0546,2026-08-27,RJ,Eletrônicos,3308.72,27.68,Sem Cupom,Entregue,4
+PED-0547,2026-08-27,SP,CASA E DECORAÇÃO,210.47,32.23,Sem Cupom,Entregue,4
+PED-0548,28/08/2026,BA,Casa e Decoração,1321.2,52.18,Sem Cupom,Entregue,13
+PED-0549,28/08/2026,RS,Eletrônicos,610.38,41.74,BEMVINDO10,Entregue,10
+PED-0550,2026-08-28,SP,Perfumaria,118.08,12.55,BEMVINDO10,Entregue,4
+PED-0550,2026-08-28,SP,Perfumaria,118.08,12.55,BEMVINDO10,Entregue,4
+PED-0551,2026-08-28,GO,Moda,82.24,27.22,Sem Cupom,Devolvido,9
+PED-0552,2026-08-28,SP,Eletrônicos,5809.3,24.52,Sem Cupom,Devolvido,3
+PED-0553,2026-08-28,SP,Casa e Decoração,406.76,18.55,Sem Cupom,Cancelado,4
+PED-0554,28/08/2026,SP,Moda,133.14,17.6,Sem Cupom,Entregue,3
+PED-0555,2026-08-28,SP,Perfumaria,357.78,15.68,BEMVINDO10,Entregue,2
+PED-0556,28/08/2026,PR,Casa e Decoração,368.48,29.47,Sem Cupom,Entregue,8
+PED-0557,28/08/2026,SC,moda,471.79,33.42,Sem Cupom,Entregue,10
+PED-0558,2026-08-29,SP,Casa e Decoração,68.91,22.59,VIP20,Entregue,4
+PED-0559,2026-08-30,DF,Eletrônicos,727.86,42.27,Sem Cupom,Entregue,9
+PED-0560,30/08/2026,PR,Eletrônicos,621.65,31.52,BEMVINDO10,Devolvido,8
+PED-0561,30/08/2026,PE,Moda,54.04,54.45,Sem Cupom,Cancelado,12
+PED-0562,2026-08-30,GO,Perfumaria,322.51,26.42,Sem Cupom,Entregue,4
+PED-0563,2026-08-30,SP,Casa e Decoração,179.62,22.57,Sem Cupom,Entregue,2
+PED-0564,30/08/2026,GO,Eletrônicos,1626.36,0.0,FRETEGRATIS,Entregue,9
+PED-0565,31/08/2026,RJ,casa e decoração,1291.37,0.0,FRETEGRATIS,Entregue,6
+PED-0566,31/08/2026,PE,Moda,131.75,42.07,Sem Cupom,Entregue,13
+PED-0567,31/08/2026,RJ,Casa e Decoração,160.41,38.92,Sem Cupom,Devolvido,6
+PED-0568,31/08/2026,PR,Moda,170.79,26.3,Sem Cupom,Entregue,3
+PED-0569,2026-08-31,SP,Perfumaria,309.8,18.87,BEMVINDO10,Entregue,4
+PED-0570,31/08/2026,RJ,Casa e Decoração,143.82,33.44,BEMVINDO10,Entregue,6
+PED-0571,2026-09-01,RS,Moda,113.09,37.87,BEMVINDO10,Entregue,9
+PED-0572,01/09/2026,GO,Casa e Decoração,486.15,49.31,VIP20,Entregue,9
+PED-0573,01/09/2026,MG,Perfumaria,221.67,23.3,Sem Cupom,Entregue,5
+PED-0574,01/09/2026,SC,Moda,51.97,25.95,BEMVINDO10,Entregue,7
+PED-0575,02/09/2026,RS,Perfumaria,91.74,25.55,BEMVINDO10,Entregue,9
+PED-0576,02/09/2026,RJ, Casa e Decoração ,678.28,32.98,Sem Cupom,Entregue,6
+PED-0577,02/09/2026,DF,Moda,199.58,33.64,VIP20,Entregue,5
+PED-0578,02/09/2026,MG,Eletrônicos,489.13,27.95,Sem Cupom,Entregue,4
+PED-0579,02/09/2026,GO,Perfumaria,163.9,24.72,BEMVINDO10,Cancelado,6
+PED-0580,2026-09-03,RJ,Eletrônicos,909.58,,BEMVINDO10,Entregue,3
+PED-0581,2026-09-03,SP,Perfumaria,269.78,16.77,VIP20,Entregue,2
+PED-0582,03/09/2026,SC,Eletrônicos,303.62,41.26,Sem Cupom,Entregue,5
+PED-0583,03/09/2026,SC,Acessórios,54.34,23.15,Sem Cupom,Entregue,5
+PED-0584,03/09/2026,RS,Eletrônicos,1119.64,0.0,FRETEGRATIS,Entregue,8
+PED-0585,03/09/2026,PE,Acessórios,84.77,0.0,FRETEGRATIS,Entregue,13
+PED-0586,2026-09-04,PR,Perfumaria,246.53,30.75,Sem Cupom,Entregue,7
+PED-0587,2026-09-04,BA,Perfumaria,91.54,0.0,FRETEGRATIS,Devolvido,10
+PED-0588,04/09/2026,BA,Perfumaria,219.07,50.68,Sem Cupom,Entregue,15
+PED-0589,2026-09-04,MG,Acessórios,173.25,22.46,BEMVINDO10,Entregue,5
+PED-0590,04/09/2026,MG,Casa e Decoração,316.95,0.0,FRETEGRATIS,Cancelado,7
+PED-0591,05/09/2026,SP,Perfumaria,194.31,11.43,Sem Cupom,Entregue,1
+PED-0592,05/09/2026,GO,Moda,151.78,29.33,Sem Cupom,Entregue,5
+PED-0593,2026-09-05,SP,CASA E DECORAÇÃO,117.62,26.12,VIP20,Entregue,3
+PED-0594,05/09/2026,SP,Eletrônicos,849.63,0.0,FRETEGRATIS,Entregue,2
+PED-0595,2026-09-05,DF,Moda,319.9,0.0,FRETEGRATIS,Entregue,7
+PED-0596,2026-09-05,RJ,Perfumaria,168.59,22.19,Sem Cupom,Entregue,2
+PED-0597,2026-09-06,SP,Eletrônicos,441.66,,VIP20,Entregue,3
+PED-0598,2026-09-06,BA,Casa e Decoração,152.09,46.75,Sem Cupom,Cancelado,13
+PED-0599,06/09/2026,RS,Eletrônicos,1056.88,40.79,Sem Cupom,Entregue,10
+PED-0600,06/09/2026,SP,PERFUMARIA,146.57,13.3,Sem Cupom,Entregue,2
+PED-0601,2026-09-06,SP,Acessórios,120.42,,FRETEGRATIS,Entregue,2
+PED-0602,06/09/2026,RJ,eletrônicos,1367.4,34.18,VIP20,Entregue,5
+PED-0603,07/09/2026,BA,Moda,260.89,37.7,BEMVINDO10,Entregue,12
+PED-0604,07/09/2026,RS,Moda,350.07,27.88,BEMVINDO10,Entregue,11
+PED-0605,07/09/2026,SP,Casa e Decoração,464.3,19.31,Sem Cupom,Cancelado,2
+PED-0606,08/09/2026,BA,Acessórios,51.38,39.09,Sem Cupom,Entregue,13
+PED-0607,2026-09-08,SP,Acessórios,52.34,19.86,Sem Cupom,Entregue,5
+PED-0608,2026-09-08,RJ,Moda,153.47,21.6,Sem Cupom,Entregue,3
+PED-0609,2026-09-08,PE,Perfumaria,140.44,35.4,Sem Cupom,Entregue,17
+PED-0610,08/09/2026,SP,Eletrônicos,362.03,0.0,FRETEGRATIS,Entregue,2
+PED-0611,08/09/2026,SP,Casa e Decoração,157.96,19.44,BEMVINDO10,Entregue,2
+PED-0612,2026-09-08,MG,Casa e Decoração,154.12,0.0,FRETEGRATIS,Entregue,6
+PED-0613,2026-09-08,GO,Eletrônicos,525.8,39.47,Sem Cupom,Entregue,8
+PED-0614,08/09/2026,SC, Casa e Decoração ,173.61,42.01,Sem Cupom,Entregue,7
+PED-0615,2026-09-09,PE,Eletrônicos,2310.35,52.5,Sem Cupom,Entregue,10
+PED-0616,09/09/2026,SP,Moda,178.53,21.67,Sem Cupom,Entregue,1
+PED-0617,10/09/2026,SP,Perfumaria,700.0,14.67,Sem Cupom,Entregue,5
+PED-0618,2026-09-10,BA,Eletrônicos,1031.53,62.33,Sem Cupom,Entregue,15
+PED-0619,2026-09-10,SP,Eletrônicos,713.61,27.19,Sem Cupom,Entregue,5
+PED-0620,2026-09-10,RS,Perfumaria,180.41,32.6,BEMVINDO10,Entregue,9
+PED-0621,2026-09-11,GO,Perfumaria,207.27,34.57,Sem Cupom,Devolvido,10
+PED-0622,11/09/2026,SP,Eletrônicos,1274.87,17.94,Sem Cupom,Entregue,3
+PED-0623,11/09/2026,RS,Perfumaria,564.05,35.27,Sem Cupom,Entregue,5
+PED-0624,2026-09-11,SP,ELETRÔNICOS,457.67,15.12,Sem Cupom,Devolvido,1
+PED-0625,11/09/2026,MG, Perfumaria ,288.71,22.17,Sem Cupom,Entregue,3
+PED-0626,2026-09-11,DF,Perfumaria,201.79,25.43,Sem Cupom,Entregue,6
+PED-0627,2026-09-12,MG,Perfumaria,75.86,16.99,BEMVINDO10,Entregue,8
+PED-0627,2026-09-12,MG,Perfumaria,75.86,16.99,BEMVINDO10,Entregue,8
+PED-0628,12/09/2026,PR,Perfumaria,275.02,19.84,Sem Cupom,Entregue,5
+PED-0629,12/09/2026,GO,Eletrônicos,2481.19,34.35,VIP20,Entregue,8
+PED-0630,12/09/2026,PE,Eletrônicos,453.35,59.97,Sem Cupom,Devolvido,10
+PED-0631,2026-09-12,PE,Eletrônicos,893.59,56.26,Sem Cupom,Entregue,15
+PED-0632,12/09/2026,MG,Acessórios,31.96,18.89,Sem Cupom,Entregue,5
+PED-0633,2026-09-12,SP,Moda,80.06,22.4,Sem Cupom,Entregue,1
+PED-0634,12/09/2026,PR,Moda,284.74,30.79,Sem Cupom,Cancelado,6
+PED-0635,12/09/2026,PE, Casa e Decoração ,155.06,0.0,FRETEGRATIS,Entregue,9
+PED-0636,12/09/2026,RJ,CASA E DECORAÇÃO,95.78,29.88,Sem Cupom,Cancelado,7
+PED-0637,2026-09-13,MG,Perfumaria,204.21,24.38,BEMVINDO10,Entregue,6
+PED-0637,2026-09-13,MG,Perfumaria,204.21,24.38,BEMVINDO10,Entregue,6
+PED-0638,2026-09-13,MG,Acessórios,65.78,24.03,Sem Cupom,Entregue,8
+PED-0639,13/09/2026,SP,Acessórios,67.85,14.25,Sem Cupom,Entregue,5
+PED-0640,2026-09-13,PR,Moda,240.28,28.53,Sem Cupom,Entregue,4
+PED-0641,14/09/2026,RJ,Moda,84.46,17.54,Sem Cupom,Entregue,6
+PED-0642,14/09/2026,BA,CASA E DECORAÇÃO,111.56,55.42,Sem Cupom,Cancelado,8
+PED-0643,14/09/2026,RS,Acessórios,98.72,34.15,VIP20,Entregue,12
+PED-0644,2026-09-14,RS,Moda,272.69,34.77,BEMVINDO10,Entregue,11
+PED-0645,15/09/2026,RJ, Perfumaria ,355.65,25.24,VIP20,Entregue,6
+PED-0646,2026-09-15,RJ,Moda,110.98,16.71,Sem Cupom,Entregue,7
+PED-0647,2026-09-15,PR,Eletrônicos,1905.11,0.0,FRETEGRATIS,Entregue,8
+PED-0648,15/09/2026,BA,Moda,103.95,32.5,BEMVINDO10,Entregue,15
+PED-0649,2026-09-15,MG,Acessórios,269.22,17.59,BEMVINDO10,Entregue,2
+PED-0650,15/09/2026,SC,Eletrônicos,363.35,28.81,VIP20,Cancelado,3
+PED-0651,16/09/2026,SP,Acessórios,199.72,15.77,BEMVINDO10,Entregue,5
+PED-0652,16/09/2026,RS,Eletrônicos,532.3,0.0,FRETEGRATIS,Entregue,7
+PED-0653,16/09/2026,SP,Acessórios,301.19,17.47,BEMVINDO10,Entregue,3
+PED-0654,16/09/2026,SP,Acessórios,128.33,14.45,Sem Cupom,Cancelado,1
+PED-0655,2026-09-17,MG,Casa e Decoração,102.68,23.46,BEMVINDO10,Entregue,6
+PED-0656,17/09/2026,SP,moda,120.05,18.68,Sem Cupom,Cancelado,5
+PED-0657,2026-09-17,SP,Eletrônicos,1681.33,,VIP20,Entregue,5
+PED-0658,17/09/2026,SP,Perfumaria,321.15,0.0,FRETEGRATIS,Entregue,3
+PED-0659,2026-09-17,MG,casa e decoração,208.64,23.81,Sem Cupom,Devolvido,6
+PED-0660,17/09/2026,BA,Eletrônicos,932.74,54.28,Sem Cupom,Cancelado,12
+PED-0661,2026-09-17,SP,Casa e Decoração,388.54,30.72,Sem Cupom,Entregue,3
+PED-0661,2026-09-17,SP,Casa e Decoração,388.54,30.72,Sem Cupom,Entregue,3
+PED-0662,2026-09-17,GO,perfumaria,193.53,30.23,Sem Cupom,Entregue,7
+PED-0663,2026-09-17,RS,Perfumaria,88.37,34.51,Sem Cupom,Entregue,12
+PED-0664,2026-09-17,SP,Casa e Decoração,119.57,27.12,BEMVINDO10,Entregue,2
+PED-0665,2026-09-18,SP,Moda,182.09,12.23,BEMVINDO10,Cancelado,3
+PED-0666,2026-09-18,RS,Perfumaria,351.24,0.0,FRETEGRATIS,Entregue,9
+PED-0667,2026-09-18,RS,moda,389.15,38.67,Sem Cupom,Entregue,9
+PED-0668,18/09/2026,MG,Casa e Decoração,394.76,41.13,Sem Cupom,Entregue,2
+PED-0669,2026-09-18,BA,Perfumaria,210.81,40.67,Sem Cupom,Entregue,9
+PED-0670,18/09/2026,SP,Casa e Decoração,385.77,0.0,FRETEGRATIS,Entregue,4
+PED-0671,2026-09-19,RJ,Casa e Decoração,133.43,35.15,Sem Cupom,Entregue,6
+PED-0672,20/09/2026,PR,Perfumaria,165.45,26.15,Sem Cupom,Entregue,8
+PED-0673,2026-09-20,SP,Casa e Decoração,118.57,19.95,Sem Cupom,Entregue,5
+PED-0674,20/09/2026,BA,Eletrônicos,331.42,0.0,FRETEGRATIS,Entregue,13
+PED-0675,20/09/2026,MG,Perfumaria,216.24,18.34,Sem Cupom,Devolvido,6
+PED-0676,20/09/2026,BA,Casa e Decoração,252.84,59.23,BEMVINDO10,Entregue,10
+PED-0677,2026-09-20,MG,Casa e Decoração,368.47,26.5,BEMVINDO10,Entregue,4
+PED-0678,20/09/2026,RJ,Moda,216.06,0.0,FRETEGRATIS,Entregue,6
+PED-0679,2026-09-20,SP,Perfumaria,205.7,11.41,Sem Cupom,Entregue,3
+PED-0679,2026-09-20,SP,Perfumaria,205.7,11.41,Sem Cupom,Entregue,3
+PED-0680,2026-09-21,SP,Moda,217.31,21.68,Sem Cupom,Entregue,4
+PED-0681,2026-09-21,BA,Acessórios,87.72,31.18,Sem Cupom,Entregue,8
+PED-0682,21/09/2026,SP,Moda,200.79,11.66,Sem Cupom,Entregue,1
+PED-0683,2026-09-21,SP,Moda,107.32,16.08,BEMVINDO10,Entregue,2
+PED-0684,21/09/2026,SP,Eletrônicos,1209.74,17.46,Sem Cupom,Cancelado,1
+PED-0685,2026-09-21,SP,casa e decoração,363.2,31.87,Sem Cupom,Entregue,4
+PED-0686,2026-09-22,RS,Eletrônicos,526.71,50.01,Sem Cupom,Entregue,10
+PED-0687,2026-09-22,RJ,Moda,164.63,20.57,BEMVINDO10,Entregue,5
+PED-0688,2026-09-23,PE,Casa e Decoração,137.82,63.4,Sem Cupom,Cancelado,11
+PED-0689,23/09/2026,SP,Perfumaria,134.74,15.19,BEMVINDO10,Entregue,3
+PED-0690,23/09/2026,GO,Moda,86.18,23.01,Sem Cupom,Cancelado,4
+PED-0691,23/09/2026,MG,Eletrônicos,2477.52,25.41,VIP20,Entregue,5
+PED-0692,2026-09-23,RJ,Casa e Decoração,489.26,,BEMVINDO10,Entregue,2
+PED-0693,2026-09-23,RS,acessórios,124.25,,Sem Cupom,Entregue,5
+PED-0694,23/09/2026,PE,Eletrônicos,4359.67,59.18,Sem Cupom,Entregue,9
+PED-0695,2026-09-24,RS,Casa e Decoração,190.89,38.58,Sem Cupom,Entregue,5
+PED-0696,2026-09-24,SP,Moda,847.8,12.0,Sem Cupom,Entregue,3
+PED-0697,24/09/2026,SP,Eletrônicos,750.22,20.98,Sem Cupom,Entregue,3
+PED-0698,2026-09-24,GO,CASA E DECORAÇÃO,266.41,0.0,FRETEGRATIS,Entregue,8
+PED-0699,2026-09-24,SP, Perfumaria ,144.63,12.41,BEMVINDO10,Entregue,3
+PED-0700,2026-09-24,PR,Acessórios,112.53,18.75,Sem Cupom,Entregue,4
+PED-0701,25/09/2026,DF,Eletrônicos,1756.16,32.08,BEMVINDO10,Entregue,4
+PED-0702,2026-09-25,DF,Moda,150.28,25.68,Sem Cupom,Entregue,8
+PED-0703,25/09/2026,RS,Moda,425.12,37.44,VIP20,Entregue,12
+PED-0704,2026-09-25,PR,Eletrônicos,1089.76,38.99,Sem Cupom,Entregue,4
+PED-0705,2026-09-26,SP,Perfumaria,208.87,15.55,BEMVINDO10,Cancelado,2
+PED-0706,2026-09-27,SP,Casa e Decoração,111.26,0.0,FRETEGRATIS,Entregue,2
+PED-0707,27/09/2026,GO,Acessórios,115.69,30.33,Sem Cupom,Entregue,5
+PED-0708,2026-09-27,MG,Casa e Decoração,198.96,34.81,Sem Cupom,Devolvido,3
+PED-0709,27/09/2026,SP,Eletrônicos,553.25,16.55,Sem Cupom,Entregue,3
+PED-0710,2026-09-27,RJ,Eletrônicos,483.58,0.0,FRETEGRATIS,Entregue,6
+PED-0711,2026-09-27,BA,moda,695.51,40.56,Sem Cupom,Entregue,14
+PED-0712,2026-09-27,RS,Casa e Decoração,180.55,48.88,BEMVINDO10,Entregue,12
+PED-0713,28/09/2026,DF,Moda,71.8,0.0,FRETEGRATIS,Entregue,6
+PED-0714,2026-09-28,RJ,Casa e Decoração,130.32,0.0,FRETEGRATIS,Entregue,4
+PED-0715,28/09/2026,SP,Moda,155.53,14.38,Sem Cupom,Entregue,2
+PED-0716,28/09/2026,MG,Eletrônicos,1393.72,24.91,Sem Cupom,Entregue,2
+PED-0717,28/09/2026,RJ,Eletrônicos,1402.81,27.06,BEMVINDO10,Entregue,4
+PED-0718,28/09/2026,DF,Moda,232.13,31.32,Sem Cupom,Entregue,5
+PED-0719,28/09/2026,PR,Moda,112.22,0.0,FRETEGRATIS,Entregue,6
+PED-0720,29/09/2026,SP,perfumaria,217.07,13.16,Sem Cupom,Entregue,1
+PED-0721,2026-09-29,SP,Perfumaria,111.18,12.0,Sem Cupom,Entregue,4
+PED-0722,29/09/2026,SP,Casa e Decoração,138.23,0.0,FRETEGRATIS,Entregue,5
+PED-0723,29/09/2026,SC,Casa e Decoração,110.54,40.6,Sem Cupom,Entregue,10
+PED-0724,2026-09-29,GO,Eletrônicos,347.82,29.82,Sem Cupom,Entregue,4
+PED-0725,29/09/2026,SP,moda,287.29,13.82,Sem Cupom,Entregue,1
+PED-0726,30/09/2026,SC,perfumaria,262.88,31.91,Sem Cupom,Cancelado,10
+PED-0727,2026-09-30,MG,Acessórios,161.71,0.0,FRETEGRATIS,Entregue,7
+PED-0728,30/09/2026,MG,Eletrônicos,928.76,34.8,Sem Cupom,Entregue,6
+PED-0729,2026-09-30,SC,Eletrônicos,1675.46,37.75,Sem Cupom,Entregue,5
+PED-0730,2026-09-30,SP,Acessórios,31.28,14.87,Sem Cupom,Cancelado,3
+PED-0731,2026-09-30,SP,Perfumaria,289.36,15.79,VIP20,Entregue,3
+PED-0732,30/09/2026,DF,Acessórios,100.09,23.72,Sem Cupom,Entregue,9
+PED-0733,2026-09-30,SP,Eletrônicos,1486.36,23.53,VIP20,Entregue,3
+PED-0734,01/10/2026,PR,Moda,197.19,0.0,FRETEGRATIS,Entregue,3
+PED-0735,2026-10-01,SP,Acessórios,49.78,11.91,Sem Cupom,Cancelado,4
+PED-0736,2026-10-01,SP,Moda,70.19,0.0,FRETEGRATIS,Entregue,4
+PED-0737,01/10/2026,SP,Eletrônicos,509.15,19.31,BEMVINDO10,Entregue,2
+PED-0738,2026-10-01,MG,Perfumaria,245.59,16.83,Sem Cupom,Entregue,2
+PED-0738,2026-10-01,MG,Perfumaria,245.59,16.83,Sem Cupom,Entregue,2
+PED-0739,02/10/2026,SP,perfumaria,263.09,14.64,Sem Cupom,Cancelado,1
+PED-0740,2026-10-02,SP, Casa e Decoração ,78.86,0.0,FRETEGRATIS,Entregue,5
+PED-0741,02/10/2026,RS,Perfumaria,104.94,0.0,FRETEGRATIS,Entregue,8
+PED-0741,02/10/2026,RS,Perfumaria,104.94,0.0,FRETEGRATIS,Entregue,8
+PED-0742,02/10/2026,RJ,Eletrônicos,504.62,0.0,FRETEGRATIS,Entregue,5
+PED-0743,2026-10-02,RJ,Perfumaria,147.89,26.53,VIP20,Entregue,7
+PED-0744,2026-10-02,SP, Perfumaria ,85.1,21.04,Sem Cupom,Entregue,1
+PED-0745,2026-10-02,RJ,Perfumaria,82.34,0.0,FRETEGRATIS,Entregue,3
+PED-0746,03/10/2026,SP,Eletrônicos,466.35,0.0,FRETEGRATIS,Devolvido,5
+PED-0747,03/10/2026,GO,Perfumaria,188.74,27.66,Sem Cupom,Entregue,7
+PED-0748,2026-10-03,SP,Acessórios,44.32,18.56,Sem Cupom,Entregue,1
+PED-0749,2026-10-04,RS,Perfumaria,168.89,34.03,Sem Cupom,Entregue,10
+PED-0750,04/10/2026,SC,perfumaria,322.2,0.0,FRETEGRATIS,Entregue,4
+PED-0751,2026-10-04,SP,casa e decoração,82.87,18.6,Sem Cupom,Entregue,4
+PED-0752,05/10/2026,SP,Acessórios,79.51,18.28,BEMVINDO10,Entregue,4
+PED-0753,05/10/2026,SP,Perfumaria,316.26,22.0,Sem Cupom,Entregue,5
+PED-0754,2026-10-05,GO,Casa e Decoração,160.76,38.4,Sem Cupom,Entregue,7
+PED-0755,05/10/2026,SP,MODA,116.71,22.34,BEMVINDO10,Entregue,2
+PED-0756,2026-10-05,RS,Casa e Decoração,526.5,44.76,Sem Cupom,Entregue,12
+PED-0757,2026-10-05,BA,Moda,135.2,0.0,FRETEGRATIS,Entregue,12
+PED-0758,06/10/2026,BA,Acessórios,174.6,31.95,Sem Cupom,Entregue,13
+PED-0759,06/10/2026,MG,Eletrônicos,1268.47,33.34,VIP20,Entregue,2
+PED-0760,06/10/2026,PE,Casa e Decoração,170.12,66.71,Sem Cupom,Entregue,14
+PED-0761,06/10/2026,SP,Acessórios,120.02,13.59,VIP20,Entregue,3
+PED-0762,2026-10-06,RJ,moda,190.84,22.77,BEMVINDO10,Cancelado,3
+PED-0762,2026-10-06,RJ,moda,190.84,22.77,BEMVINDO10,Cancelado,3
+PED-0763,06/10/2026,RJ,CASA E DECORAÇÃO,473.09,28.58,Sem Cupom,Entregue,6
+PED-0764,06/10/2026,PE,eletrônicos,580.4,56.07,Sem Cupom,Entregue,9
+PED-0765,2026-10-07,DF,Casa e Decoração,226.91,49.32,Sem Cupom,Entregue,9
+PED-0766,2026-10-07,BA,Eletrônicos,856.78,57.92,BEMVINDO10,Entregue,16
+PED-0767,07/10/2026,SP,Acessórios,137.32,0.0,FRETEGRATIS,Entregue,3
+PED-0768,07/10/2026,PE,Casa e Decoração,101.98,67.6,Sem Cupom,Entregue,9
+PED-0769,2026-10-07,MG,Acessórios,165.67,27.1,Sem Cupom,Entregue,5
+PED-0770,08/10/2026,MG,Moda,206.78,19.24,BEMVINDO10,Entregue,5
+PED-0771,2026-10-08,PE,Acessórios,40.84,37.65,Sem Cupom,Entregue,14
+PED-0772,2026-10-08,RJ,Casa e Decoração,544.48,24.84,BEMVINDO10,Entregue,3
+PED-0773,2026-10-08,RJ,Acessórios,343.87,20.95,Sem Cupom,Entregue,5
+PED-0774,08/10/2026,DF,Moda,277.6,30.78,BEMVINDO10,Entregue,5
+PED-0775,2026-10-08,SP,Moda,350.73,19.29,VIP20,Entregue,3
+PED-0776,2026-10-08,RJ,Eletrônicos,963.62,25.33,Sem Cupom,Entregue,5
+PED-0777,2026-10-08,SP,casa e decoração,63.28,15.81,Sem Cupom,Cancelado,4
+PED-0778,08/10/2026,SP,Eletrônicos,205.84,23.25,Sem Cupom,Entregue,4
+PED-0779,08/10/2026,RS,Moda,184.1,40.48,BEMVINDO10,Entregue,12
+PED-0780,2026-10-08,DF,acessórios,63.09,25.01,Sem Cupom,Devolvido,9
+PED-0781,09/10/2026,RJ,CASA E DECORAÇÃO,110.8,26.27,VIP20,Entregue,6
+PED-0782,2026-10-09,RJ,ELETRÔNICOS,855.94,24.59,BEMVINDO10,Entregue,7
+PED-0783,2026-10-09,MG,perfumaria,252.53,21.56,Sem Cupom,Entregue,3
+PED-0784,09/10/2026,GO, Acessórios ,37.64,0.0,FRETEGRATIS,Entregue,6
+PED-0785,09/10/2026,SC,Eletrônicos,628.47,33.94,Sem Cupom,Entregue,7
+PED-0786,2026-10-09,SC, Eletrônicos ,3011.79,0.0,FRETEGRATIS,Entregue,6
+PED-0787,09/10/2026,RJ,MODA,88.57,19.93,Sem Cupom,Entregue,6
+PED-0788,2026-10-09,RJ,Acessórios,151.66,19.34,BEMVINDO10,Entregue,2
+PED-0789,09/10/2026,MG,eletrônicos,610.7,21.34,VIP20,Entregue,2
+PED-0790,09/10/2026,DF,perfumaria,243.02,0.0,FRETEGRATIS,Entregue,9
+PED-0791,10/10/2026,MG,Moda,292.57,0.0,FRETEGRATIS,Entregue,7
+PED-0792,2026-10-10,GO,ACESSÓRIOS,140.41,25.43,Sem Cupom,Devolvido,6
+PED-0793,10/10/2026,DF,Casa e Decoração,435.07,0.0,FRETEGRATIS,Entregue,6
+PED-0794,10/10/2026,RJ,Perfumaria,95.54,23.05,BEMVINDO10,Devolvido,5
+PED-0795,2026-10-11,RJ,Perfumaria,332.11,25.53,BEMVINDO10,Entregue,4
+PED-0796,2026-10-11,RJ,Eletrônicos,454.97,21.27,Sem Cupom,Entregue,3
+PED-0797,11/10/2026,SP,acessórios,105.17,11.81,Sem Cupom,Entregue,3
+PED-0798,2026-10-11,SP,eletrônicos,1106.54,15.99,BEMVINDO10,Entregue,5
+PED-0799,11/10/2026,PR,Eletrônicos,1326.76,34.3,Sem Cupom,Entregue,8
+PED-0800,2026-10-11,RJ,ACESSÓRIOS,110.17,24.7,BEMVINDO10,Cancelado,6
+PED-0801,11/10/2026,SP,Moda,100.59,0.0,FRETEGRATIS,Entregue,4
+PED-0802,2026-10-11,DF,ACESSÓRIOS,40.04,25.63,VIP20,Entregue,10
+PED-0803,11/10/2026,BA,Casa e Decoração,423.22,68.4,Sem Cupom,Entregue,9
+PED-0804,12/10/2026,SP,Casa e Decoração,252.9,28.15,VIP20,Entregue,1
+PED-0805,2026-10-12,RS,Casa e Decoração,520.95,41.85,Sem Cupom,Entregue,5
+PED-0806,12/10/2026,SC,Perfumaria,175.63,24.38,Sem Cupom,Devolvido,10
+PED-0807,12/10/2026,DF,Casa e Decoração,76.69,0.0,FRETEGRATIS,Entregue,8
+PED-0808,2026-10-12,GO,Casa e Decoração,454.06,47.62,Sem Cupom,Entregue,5
+PED-0809,2026-10-12,SP,Casa e Decoração,166.64,27.35,Sem Cupom,Entregue,5
+PED-0810,12/10/2026,PE,Moda,193.11,48.58,Sem Cupom,Entregue,11
+PED-0811,13/10/2026,RJ,Moda,112.06,25.16,Sem Cupom,Devolvido,5
+PED-0812,2026-10-13,SC,Eletrônicos,3353.76,0.0,FRETEGRATIS,Cancelado,4
+PED-0812,2026-10-13,SC,Eletrônicos,3353.76,0.0,FRETEGRATIS,Cancelado,4
+PED-0813,13/10/2026,DF,Perfumaria,111.15,27.09,Sem Cupom,Entregue,4
+PED-0814,2026-10-13,SP,Eletrônicos,687.08,14.43,Sem Cupom,Devolvido,2
+PED-0815,2026-10-13,SP,Perfumaria,190.96,20.96,BEMVINDO10,Entregue,2
+PED-0816,13/10/2026,PR,Perfumaria,98.72,26.61,Sem Cupom,Entregue,6
+PED-0817,2026-10-13,DF,Eletrônicos,1172.4,33.89,BEMVINDO10,Entregue,4
+PED-0818,2026-10-13,SP,Acessórios,236.74,10.97,VIP20,Entregue,2
+PED-0819,13/10/2026,PR,casa e decoração,152.29,0.0,FRETEGRATIS,Entregue,6
+PED-0820,2026-10-14,RS,Moda,198.84,0.0,FRETEGRATIS,Entregue,8
+PED-0821,2026-10-14,MG,eletrônicos,150.0,31.43,Sem Cupom,Entregue,6
+PED-0822,15/10/2026,MG, Eletrônicos ,872.4,0.0,FRETEGRATIS,Devolvido,6
+PED-0823,15/10/2026,SP,Casa e Decoração,173.96,31.03,Sem Cupom,Devolvido,5
+PED-0824,16/10/2026,BA,Eletrônicos,467.59,60.17,Sem Cupom,Entregue,15
+PED-0825,16/10/2026,RJ,Perfumaria,326.28,23.3,BEMVINDO10,Entregue,3
+PED-0826,2026-10-16,RS,Moda,133.72,35.16,Sem Cupom,Entregue,10
+PED-0827,2026-10-16,RJ,Eletrônicos,780.87,0.0,FRETEGRATIS,Entregue,5
+PED-0828,16/10/2026,DF,Eletrônicos,665.57,44.76,BEMVINDO10,Entregue,8
+PED-0829,2026-10-17,SP,CASA E DECORAÇÃO,52.25,25.67,VIP20,Entregue,4
+PED-0830,2026-10-17,SP,CASA E DECORAÇÃO,94.13,22.64,Sem Cupom,Entregue,1
+PED-0831,17/10/2026,BA,Casa e Decoração,452.35,56.38,Sem Cupom,Entregue,10
+PED-0832,17/10/2026,MG,Perfumaria,56.4,26.52,BEMVINDO10,Entregue,7
+PED-0833,17/10/2026,MG,Moda,104.97,24.32,Sem Cupom,Entregue,8
+PED-0834,2026-10-17,PE,Eletrônicos,653.68,45.83,Sem Cupom,Cancelado,8
+PED-0835,2026-10-17,PE,casa e decoração,813.5,53.84,BEMVINDO10,Entregue,13
+PED-0836,2026-10-17,RS,Acessórios,142.73,36.81,VIP20,Entregue,7
+PED-0837,18/10/2026,SP,Moda,117.77,21.15,BEMVINDO10,Entregue,1
+PED-0838,2026-10-18,DF,Perfumaria,368.87,35.35,Sem Cupom,Entregue,4
+PED-0839,2026-10-18,RS,Casa e Decoração,126.25,45.86,Sem Cupom,Entregue,9
+PED-0840,2026-10-18,RJ,Eletrônicos,2017.62,31.52,BEMVINDO10,Entregue,6
+PED-0841,18/10/2026,SP,Eletrônicos,303.47,26.18,Sem Cupom,Entregue,3
+PED-0842,18/10/2026,BA,Eletrônicos,2123.88,48.6,Sem Cupom,Entregue,10
+PED-0843,2026-10-18,MG,Acessórios,70.54,17.03,Sem Cupom,Entregue,7
+PED-0844,2026-10-19,DF,perfumaria,102.24,35.96,Sem Cupom,Entregue,8
+PED-0845,2026-10-19,PE,Acessórios,79.01,32.92,Sem Cupom,Entregue,17
+PED-0846,2026-10-19,GO,Eletrônicos,1123.57,39.05,Sem Cupom,Entregue,6
+PED-0847,19/10/2026,MG,Moda,121.88,24.39,BEMVINDO10,Entregue,3
+PED-0848,2026-10-19,RJ,Moda,216.99,23.56,Sem Cupom,Entregue,4
+PED-0849,19/10/2026,RJ,eletrônicos,564.53,24.23,BEMVINDO10,Entregue,5
+PED-0850,19/10/2026,SP,Eletrônicos,1478.37,24.59,Sem Cupom,Entregue,3
+PED-0851,20/10/2026,BA,Eletrônicos,1281.99,,FRETEGRATIS,Entregue,15
+PED-0852,20/10/2026,RS,Moda,154.73,37.88,Sem Cupom,Entregue,5
+PED-0853,2026-10-20,SP,Perfumaria,141.2,13.36,Sem Cupom,Entregue,3
+PED-0854,2026-10-20,RJ,CASA E DECORAÇÃO,246.48,,Sem Cupom,Entregue,4
+PED-0855,2026-10-20,RS,Casa e Decoração,332.39,53.71,Sem Cupom,Entregue,6
+PED-0856,20/10/2026,SP,Acessórios,310.1,12.29,Sem Cupom,Entregue,4
+PED-0857,2026-10-20,MG,Casa e Decoração,445.05,0.0,FRETEGRATIS,Devolvido,7
+PED-0858,2026-10-21,MG,Casa e Decoração,457.43,37.58,VIP20,Devolvido,5
+PED-0859,2026-10-21,PR,Moda,874.68,20.81,Sem Cupom,Entregue,3
+PED-0860,2026-10-21,SP,Eletrônicos,1359.89,16.65,Sem Cupom,Entregue,1
+PED-0860,2026-10-21,SP,Eletrônicos,1359.89,16.65,Sem Cupom,Entregue,1
+PED-0861,21/10/2026,GO,Moda,208.87,28.65,BEMVINDO10,Entregue,6
+PED-0862,21/10/2026,RJ,Eletrônicos,1580.67,33.54,BEMVINDO10,Entregue,6
+PED-0863,21/10/2026,GO,casa e decoração,103.22,43.46,Sem Cupom,Entregue,6
+PED-0864,22/10/2026,SP,Moda,125.34,0.0,FRETEGRATIS,Entregue,2
+PED-0865,2026-10-22,MG,Acessórios,66.43,26.94,Sem Cupom,Entregue,8
+PED-0866,2026-10-22,MG,Acessórios,132.74,20.82,BEMVINDO10,Entregue,2
+PED-0867,2026-10-22,SP,Perfumaria,163.56,15.87,Sem Cupom,Entregue,1
+PED-0868,22/10/2026,SP,Casa e Decoração,244.03,22.56,Sem Cupom,Entregue,1
+PED-0869,22/10/2026,SP,Perfumaria,327.36,14.45,Sem Cupom,Devolvido,5
+PED-0870,2026-10-22,RJ,Casa e Decoração,420.31,0.0,FRETEGRATIS,Entregue,4
+PED-0871,23/10/2026,SP,Casa e Decoração,194.87,27.22,Sem Cupom,Entregue,1
+PED-0872,2026-10-23,PE,Perfumaria,124.52,,FRETEGRATIS,Devolvido,11
+PED-0873,2026-10-23,RJ,Perfumaria,336.08,0.0,FRETEGRATIS,Entregue,7
+PED-0874,24/10/2026,BA,PERFUMARIA,275.5,35.66,BEMVINDO10,Entregue,13
+PED-0875,24/10/2026,PE,perfumaria,74.4,42.5,Sem Cupom,Entregue,10
+PED-0876,24/10/2026,SP,Eletrônicos,700.55,15.99,Sem Cupom,Entregue,2
+PED-0877,24/10/2026,GO,MODA,175.25,29.96,Sem Cupom,Entregue,4
+PED-0878,2026-10-25,RS,Casa e Decoração,394.55,52.52,BEMVINDO10,Entregue,11
+PED-0879,26/10/2026,GO,Eletrônicos,1863.99,34.87,VIP20,Entregue,4
+PED-0880,26/10/2026,MG,acessórios,106.71,,Sem Cupom,Entregue,4
+PED-0881,26/10/2026,MG,Moda,220.76,0.0,FRETEGRATIS,Devolvido,4
+PED-0882,2026-10-26,SP,Perfumaria,186.46,20.37,Sem Cupom,Entregue,4
+PED-0883,27/10/2026,MG,Eletrônicos,524.96,25.01,Sem Cupom,Entregue,6
+PED-0884,2026-10-27,PE,Eletrônicos,730.25,,Sem Cupom,Entregue,16
+PED-0884,2026-10-27,PE,Eletrônicos,730.25,,Sem Cupom,Entregue,16
+PED-0885,2026-10-28,PE,Eletrônicos,913.78,52.84,BEMVINDO10,Em Trânsito,11
+PED-0886,28/10/2026,SP,Acessórios,88.15,,Sem Cupom,Em Trânsito,2
+PED-0887,28/10/2026,PR,Moda,56.72,28.31,Sem Cupom,Em Trânsito,5
+PED-0888,29/10/2026,RJ,Eletrônicos,654.85,0.0,FRETEGRATIS,Em Trânsito,2
+PED-0889,29/10/2026,SC,Acessórios,93.09,21.6,Sem Cupom,Entregue,8
+PED-0890,2026-10-29,SP,Eletrônicos,718.6,28.15,Sem Cupom,Em Trânsito,3
+PED-0891,29/10/2026,SC,casa e decoração,182.82,35.0,Sem Cupom,Entregue,6
+PED-0892,2026-10-29,RS,Acessórios,120.62,28.91,Sem Cupom,Cancelado,12
+PED-0893,29/10/2026,SP,Perfumaria,99.44,15.3,Sem Cupom,Em Trânsito,1
+PED-0894,2026-10-29,SP,Eletrônicos,244.68,21.12,Sem Cupom,Em Trânsito,5
+PED-0895,30/10/2026,RS,Casa e Decoração,169.44,53.76,BEMVINDO10,Entregue,10
+PED-0896,30/10/2026,SP,Moda,243.58,10.87,Sem Cupom,Entregue,2
+PED-0897,30/10/2026,MG,Perfumaria,455.37,27.95,BEMVINDO10,Entregue,6
+PED-0898,2026-10-30,SC,Eletrônicos,1682.6,38.41,Sem Cupom,Entregue,9
+PED-0899,2026-10-31,DF,Eletrônicos,278.05,45.15,Sem Cupom,Entregue,6
+PED-0900,2026-10-31,RJ, Casa e Decoração ,184.81,36.15,Sem Cupom,Em Trânsito,4
+PED-0900,2026-10-31,RJ, Casa e Decoração ,184.81,36.15,Sem Cupom,Em Trânsito,4
+PED-0901,2026-10-31,MG,Casa e Decoração,266.69,40.29,Sem Cupom,Entregue,7
+PED-0902,31/10/2026,SP,Acessórios,100.12,16.84,Sem Cupom,Em Trânsito,1
+PED-0903,2026-11-01,PE,Acessórios,124.39,39.59,Sem Cupom,Entregue,8
+PED-0903,2026-11-01,PE,Acessórios,124.39,39.59,Sem Cupom,Entregue,8
+PED-0904,01/11/2026,RJ,Moda,96.62,20.98,VIP20,Em Trânsito,5
+PED-0905,2026-11-01,SP,Moda,165.82,0.0,FRETEGRATIS,Cancelado,5
+PED-0906,2026-11-02,SP, Perfumaria ,226.81,15.8,Sem Cupom,Em Trânsito,3
+PED-0907,02/11/2026,PE,casa e decoração,408.66,72.23,BEMVINDO10,Devolvido,9
+PED-0908,2026-11-02,SP,PERFUMARIA,115.56,11.87,BEMVINDO10,Em Trânsito,3
+PED-0909,2026-11-02,RS,Perfumaria,148.88,0.0,FRETEGRATIS,Em Trânsito,7
+PED-0910,2026-11-02,PR,Moda,40.0,22.19,Sem Cupom,Cancelado,8
+PED-0911,2026-11-03,RS,Acessórios,61.99,37.44,Sem Cupom,Entregue,9
+PED-0912,03/11/2026,PE,MODA,119.91,37.56,Sem Cupom,Entregue,11
+PED-0913,2026-11-03,RS,Casa e Decoração,102.41,39.25,Sem Cupom,Em Trânsito,9
+PED-0914,2026-11-03,PE,Casa e Decoração,249.1,74.73,Sem Cupom,Entregue,15
+PED-0915,03/11/2026,SP,Casa e Decoração,210.96,0.0,FRETEGRATIS,Entregue,4
+PED-0916,03/11/2026,BA,Eletrônicos,150.0,59.79,VIP20,Cancelado,10
+PED-0917,03/11/2026,DF,perfumaria,202.65,35.47,Sem Cupom,Entregue,7
+PED-0918,2026-11-03,DF,Casa e Decoração,109.66,37.78,Sem Cupom,Em Trânsito,4
+PED-0919,04/11/2026,SC,Eletrônicos,1327.36,41.11,Sem Cupom,Em Trânsito,6
+PED-0920,2026-11-04,PE,Moda,79.06,,Sem Cupom,Em Trânsito,12
+PED-0921,2026-11-04,PR,Eletrônicos,921.87,33.33,BEMVINDO10,Em Trânsito,6
+PED-0922,04/11/2026,MG,Eletrônicos,717.57,27.87,Sem Cupom,Em Trânsito,8
+PED-0923,04/11/2026,MG,Acessórios,107.95,0.0,FRETEGRATIS,Cancelado,8
+PED-0924,04/11/2026,RJ,Eletrônicos,994.41,28.63,VIP20,Em Trânsito,4
+PED-0925,04/11/2026,RJ,Moda,139.05,24.27,BEMVINDO10,Entregue,5
+PED-0926,2026-11-04,RJ, Acessórios ,35.8,17.08,BEMVINDO10,Devolvido,2
+PED-0927,04/11/2026,SP,Eletrônicos,276.06,27.73,Sem Cupom,Em Trânsito,3
+PED-0928,05/11/2026,SP,Acessórios,63.4,16.06,Sem Cupom,Entregue,4
+PED-0929,2026-11-05,BA,Acessórios,89.55,33.23,Sem Cupom,Entregue,13
+PED-0930,2026-11-05,MG,Acessórios,62.48,22.99,BEMVINDO10,Cancelado,8
+PED-0931,2026-11-05,SC,Moda,225.66,24.75,Sem Cupom,Entregue,6
+PED-0932,05/11/2026,GO,Acessórios,76.12,0.0,FRETEGRATIS,Em Trânsito,10
+PED-0933,2026-11-06,SP,Casa e Decoração,106.68,27.18,Sem Cupom,Entregue,5
+PED-0934,2026-11-06,SP,Perfumaria,154.47,12.1,Sem Cupom,Entregue,3
+PED-0935,06/11/2026,SP,Acessórios,103.06,11.37,Sem Cupom,Cancelado,1
+PED-0936,06/11/2026,PE,Moda,191.3,50.18,VIP20,Entregue,12
+PED-0937,2026-11-06,SP,Casa e Decoração,900.02,16.53,Sem Cupom,Entregue,4
+PED-0938,06/11/2026,MG,Acessórios,60.25,24.94,Sem Cupom,Cancelado,6
+PED-0939,06/11/2026,SC,Casa e Decoração,208.2,45.95,Sem Cupom,Entregue,10
+PED-0939,06/11/2026,SC,Casa e Decoração,208.2,45.95,Sem Cupom,Entregue,10
+PED-0940,06/11/2026,PE,Acessórios,116.22,35.18,BEMVINDO10,Entregue,16
+PED-0941,2026-11-07,SP,MODA,157.95,16.87,VIP20,Cancelado,1
+PED-0942,2026-11-07,SP,Eletrônicos,602.99,15.24,Sem Cupom,Cancelado,5
+PED-0943,08/11/2026,SP,eletrônicos,260.6,23.26,VIP20,Em Trânsito,2
+PED-0944,2026-11-08,SP,Casa e Decoração,149.98,16.66,Sem Cupom,Entregue,5
+PED-0945,08/11/2026,SP,casa e decoração,98.33,31.56,BEMVINDO10,Entregue,3
+PED-0946,2026-11-08,DF,Casa e Decoração,60.26,36.55,Sem Cupom,Em Trânsito,7
+PED-0947,08/11/2026,SC,Eletrônicos,476.21,38.96,Sem Cupom,Cancelado,3
+PED-0948,08/11/2026,MG,Casa e Decoração,100.31,25.73,BEMVINDO10,Entregue,2
+PED-0948,08/11/2026,MG,Casa e Decoração,100.31,25.73,BEMVINDO10,Entregue,2
+PED-0949,08/11/2026,GO,Casa e Decoração,340.86,36.59,Sem Cupom,Em Trânsito,8
+PED-0950,08/11/2026,SP,CASA E DECORAÇÃO,345.31,23.22,Sem Cupom,Entregue,3
+PED-0951,09/11/2026,BA,Acessórios,52.33,0.0,FRETEGRATIS,Em Trânsito,12
+PED-0952,2026-11-09,GO,Acessórios,76.99,33.99,VIP20,Em Trânsito,5
+PED-0953,2026-11-09,RS,Acessórios,29.51,24.17,Sem Cupom,Em Trânsito,9
+PED-0954,09/11/2026,PE,Acessórios,66.9,32.31,BEMVINDO10,Em Trânsito,8
+PED-0955,09/11/2026,RJ,Acessórios,114.34,0.0,FRETEGRATIS,Entregue,2
+PED-0956,10/11/2026,SP,casa e decoração,408.43,21.79,Sem Cupom,Em Trânsito,3
+PED-0957,10/11/2026,SP,Casa e Decoração,128.87,0.0,FRETEGRATIS,Em Trânsito,4
+PED-0958,2026-11-10,MG,Eletrônicos,2087.83,35.39,Sem Cupom,Em Trânsito,6
+PED-0959,10/11/2026,PE,Perfumaria,78.2,0.0,FRETEGRATIS,Em Trânsito,18
+PED-0960,10/11/2026,RJ, Casa e Decoração ,86.31,25.63,Sem Cupom,Entregue,7
+PED-0961,10/11/2026,BA,Moda,236.39,40.03,Sem Cupom,Entregue,10
+PED-0962,10/11/2026,DF,Acessórios,245.3,30.76,Sem Cupom,Entregue,9
+PED-0963,10/11/2026,SP,ELETRÔNICOS,1335.61,18.47,Sem Cupom,Entregue,1
+PED-0964,11/11/2026,RJ,Casa e Decoração,213.44,0.0,FRETEGRATIS,Em Trânsito,7
+PED-0965,2026-11-11,GO,Perfumaria,53.82,,VIP20,Em Trânsito,6
+PED-0966,11/11/2026,PR,Acessórios,26.74,22.27,Sem Cupom,Em Trânsito,8
+PED-0967,2026-11-11,MG,Moda,171.8,27.04,Sem Cupom,Em Trânsito,8
+PED-0968,2026-11-11,SP,CASA E DECORAÇÃO,168.19,19.83,Sem Cupom,Em Trânsito,4
+PED-0969,2026-11-11,PR,casa e decoração,95.99,44.9,Sem Cupom,Em Trânsito,9
+PED-0970,2026-11-11,SP,Perfumaria,186.61,14.38,Sem Cupom,Em Trânsito,1
+PED-0971,2026-11-12,SC, Casa e Decoração ,239.84,0.0,FRETEGRATIS,Em Trânsito,4
+PED-0972,12/11/2026,SP,Moda,268.97,0.0,FRETEGRATIS,Em Trânsito,4
+PED-0973,12/11/2026,SP,acessórios,97.69,12.09,Sem Cupom,Em Trânsito,3
+PED-0974,12/11/2026,MG,Casa e Decoração,552.76,32.62,Sem Cupom,Em Trânsito,2
+PED-0974,12/11/2026,MG,Casa e Decoração,552.76,32.62,Sem Cupom,Em Trânsito,2
+PED-0975,2026-11-12,MG,Perfumaria,180.79,17.62,BEMVINDO10,Em Trânsito,7
+PED-0976,2026-11-12,MG,Eletrônicos,820.67,30.78,Sem Cupom,Em Trânsito,2
+PED-0977,12/11/2026,MG,Eletrônicos,2108.74,34.79,Sem Cupom,Em Trânsito,8
+PED-0978,12/11/2026,PE,Eletrônicos,411.43,53.71,Sem Cupom,Em Trânsito,9
+PED-0979,12/11/2026,MG,Perfumaria,700.0,18.32,Sem Cupom,Em Trânsito,5
+PED-0980,13/11/2026,MG,Moda,196.68,21.24,Sem Cupom,Entregue,7
+PED-0981,13/11/2026,MG,Casa e Decoração,292.73,0.0,FRETEGRATIS,Entregue,5
+PED-0982,13/11/2026,SP,Perfumaria,240.27,17.72,Sem Cupom,Em Trânsito,4
+PED-0983,13/11/2026,DF,Eletrônicos,4040.42,30.49,BEMVINDO10,Entregue,8
+PED-0984,14/11/2026,SP,Perfumaria,278.34,17.09,Sem Cupom,Em Trânsito,5
+PED-0985,14/11/2026,GO,MODA,66.18,,FRETEGRATIS,Entregue,7
+PED-0986,2026-11-14,SP,Perfumaria,389.5,14.63,Sem Cupom,Em Trânsito,5
+PED-0987,2026-11-14,PE, Acessórios ,73.35,34.55,Sem Cupom,Em Trânsito,13
+PED-0987,2026-11-14,PE, Acessórios ,73.35,34.55,Sem Cupom,Em Trânsito,13
+PED-0988,2026-11-14,MG,moda,169.71,28.56,Sem Cupom,Em Trânsito,8
+PED-0989,15/11/2026,SC,Eletrônicos,323.43,31.38,Sem Cupom,Em Trânsito,8
+PED-0990,15/11/2026,MG,Casa e Decoração,326.45,26.91,Sem Cupom,Entregue,2
+PED-0991,2026-11-16,SP,Moda,111.82,0.0,FRETEGRATIS,Entregue,4
+PED-0992,16/11/2026,RS,casa e decoração,237.16,49.0,Sem Cupom,Em Trânsito,12
+PED-0993,2026-11-16,GO,Eletrônicos,717.03,36.4,Sem Cupom,Em Trânsito,4
+PED-0994,2026-11-16,BA, Moda ,461.25,36.67,Sem Cupom,Em Trânsito,15
+PED-0995,17/11/2026,MG,MODA,476.0,0.0,FRETEGRATIS,Em Trânsito,2
+PED-0996,2026-11-17,GO,Casa e Decoração,227.81,,FRETEGRATIS,Em Trânsito,10
+PED-0997,2026-11-17,RS,Casa e Decoração,230.81,42.63,BEMVINDO10,Entregue,11
+PED-0998,2026-11-17,GO,Eletrônicos,667.57,44.54,BEMVINDO10,Em Trânsito,5
+PED-0999,2026-11-17,RJ,Moda,293.97,19.51,BEMVINDO10,Em Trânsito,6
+PED-1000,17/11/2026,GO,casa e decoração,171.9,36.36,BEMVINDO10,Em Trânsito,4
