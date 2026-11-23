@@ -39,6 +39,21 @@ A operação precisava identificar onde estava perdendo receita, quais estados a
 
 ---
 
+## 📈 Dashboard Interativo (Streamlit)
+
+Painel desenvolvido em Python com **Streamlit** para acompanhamento dinâmico dos indicadores de faturamento, cancelamentos, prazos logísticos e sazonalidade:
+
+### Visão Geral e KPIs
+![Visão Geral do Dashboard](imagens/imagem1.png)
+
+### Evolução Mensal e Sazonalidade
+![Sazonalidade Mensal](imagens/imagem2.png)
+
+### Desempenho por Categoria e Logística
+![Análise por Categoria e Estado](imagens/imagem3.png)
+
+---
+
 ## 📁 Estrutura do Repositório
 * `vendas_ecommerce_limpo.csv`: Base de dados tratada e padronizada.
 * `ecommerce.db`: Banco de dados SQLite populado.
